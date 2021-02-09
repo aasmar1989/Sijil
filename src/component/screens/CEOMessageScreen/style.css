@@ -1,0 +1,82 @@
+.ceo-screen {
+    min-height: 680px;
+    background-image: linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    padding-bottom: 50px;
+}
+.header-ceo {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 47px;
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.col-ceo-item-screen {
+    padding: 90px 10px;
+}
+.ceo-img-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.ceo-header-img {
+    color: var( --main-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+}
+.ceo-position-img {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+}
+.item-wrap-ceo {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 770px;
+    margin: 0 35px;
+}
+.ceo-message-header {
+    color: var( --main-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: initial;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+.ceo-message-text {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: initial;
+    line-height: 2;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.top-left-quote {
+    position: absolute;
+    top: -35px;
+    left: -35px;
+}
+.bottom-right-quote {
+    position: absolute;
+    bottom: -35px;
+    right:  -35px;
+    transform: rotate(180deg);
+}

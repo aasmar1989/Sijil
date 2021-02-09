@@ -1,0 +1,77 @@
+.our-clients-deteil-screen {
+    min-height: 680px;
+    background-image: linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    position: relative;
+}
+.header-our-clients-deteil {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: calc(32px + 2vw);
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.clients-tabs .nav-item.nav-link {
+    width: fit-content;
+    border: none;
+    background-color: transparent;
+}
+.clients-tabs.nav-tabs {
+    border: none;
+    justify-content: center;
+    text-align:center;
+}
+.clients-tabs > .nav-item.nav-link {
+    color: rgba(169, 180, 198, 0.8);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    width: 300px;
+    padding: 0;
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clients-tabs > .nav-item.nav-link > div {
+    width: 100%;
+}
+
+.clients-tabs > .nav-item.nav-link:last-child {
+    border-right: none;
+}
+.clients-tabs > .nav-item.nav-link.active, .clients-tabs > .nav-item.nav-link:hover {
+    background-color: transparent;
+    color: var(--main-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.clients-tab-content-wrap {
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+.clients-tab-content-item-wrap {
+    padding: 50px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab-img {
+    background: var(--white);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clients-tabs.nav.nav-tabs {
+    align-items: flex-start;
+}

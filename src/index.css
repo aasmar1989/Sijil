@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'Teshrin AR LT Regular';
+  src: url('./assets/fonts/Teshrin AR LT Regular.eot');
+  src: url('./assets/fonts/Teshrin AR LT Regular.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Regular';
+  src: url('./assets/fonts/TeshrinAR+LT-Regular.svg#TeshrinAR+LT-Regular') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Regular.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Teshrin AR LT Thin';
+  src: url('./assets/fonts/Teshrin AR LT Thin.eot');
+  src: url('./assets/fonts/Teshrin AR LT Thin.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Thin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Thin';
+  src: url('./assets/fonts/TeshrinAR+LT-Thin.svg#TeshrinAR+LT-Thin') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Thin.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Thin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Teshrin AR LT Black';
+  src: url('./assets/fonts/Teshrin AR LT Black.eot');
+  src: url('./assets/fonts/Teshrin AR LT Black.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Black';
+  src: url('./assets/fonts/TeshrinAR+LT-Black.svg#TeshrinAR+LT-Black') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Black.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Teshrin AR LT Bold';
+  src: url('./assets/fonts/Teshrin AR LT Bold.eot');
+  src: url('./assets/fonts/Teshrin AR LT Bold.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Bold';
+  src: url('./assets/fonts/TeshrinAR+LT-Bold.svg#TeshrinAR+LT-Bold') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Bold.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Teshrin AR LT Light';
+  src: url('./assets/fonts/Teshrin AR LT Light.eot');
+  src: url('./assets/fonts/Teshrin AR LT Light.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Light';
+  src: url('./assets/fonts/TeshrinAR+LT-Light.svg#TeshrinAR+LT-Light') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Light.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Teshrin AR LT Medium';
+  src: url('./assets/fonts/Teshrin AR LT Medium.eot');
+  src: url('./assets/fonts/Teshrin AR LT Medium.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/Teshrin AR LT Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeshrinAR+LT-Medium';
+  src: url('./assets/fonts/TeshrinAR+LT-Medium.svg#TeshrinAR+LT-Medium') format('svg'),
+       url('./assets/fonts/TeshrinAR+LT-Medium.ttf') format('truetype'),
+       url('./assets/fonts/TeshrinAR+LT-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SegoeUI Bold"; 
+  src:  url("./assets/fonts/Segoe UI Bold.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: "SegoeUI Light"; 
+  src:  url("./assets/fonts/Segoe UI Light.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: "Segoe UI"; 
+  src:  url("./assets/fonts/Segoe UI.ttf") format("truetype")
+}
+
+body {
+  margin: 0;
+  font-family: 'TeshrinAR+LT-Regular', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

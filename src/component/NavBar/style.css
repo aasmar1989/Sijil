@@ -1,0 +1,36 @@
+.navbar {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-wrap {
+    min-height: 130px;
+}
+.navbar-item-wrap {
+    position: relative;
+}
+.navbar-item {
+    font-size: 19px;
+    color: var(--main-text-color);
+    margin: 10px auto;
+    cursor: pointer;
+}
+.navbar-item:hover {
+    color: var(--main-text-color);
+}
+.navbar-item-highlight {
+    position: absolute;
+    display: none;
+    width: 100%;
+    height: 7px;
+    top: 0;
+    background-color: var(--main-color);
+    border-radius: 7px;
+}
+
+@media screen and (min-width: 576px) {
+    .navbar-item-highlight {
+        display: block;
+    }
+}
+

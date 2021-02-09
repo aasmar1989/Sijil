@@ -1,0 +1,77 @@
+.faq-details-screen {
+    display: block;
+    position: relative;
+    background-image: linear-gradient(90deg, #0A4065 0%, #042B46 100%);
+    padding-bottom: 50px;
+}
+.faq-details-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.header-faq-details {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 47px;
+    font-weight: 700;
+    color: var(--white);
+    margin-top: 60px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+.faq-details-accordion.accordion {
+    width: 100%;
+    max-width: 1300px;
+}
+.faq-details-card.card {
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: transparent;
+}
+.faq-details-accordion.accordion>.faq-details-card.card>.faq-details-card-header-wrap.card-header {
+    border-radius: 10px;
+    margin-bottom: -3px;
+}
+.faq-details-accordion.accordion>.faq-details-card.card:not(:last-of-type){
+    border-radius: 10px;
+}
+.faq-details-card-header-wrap.card-header {
+    display: flex; 
+    justify-content: space-between;
+    background-color: var(--bg-faq-tiles);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 1300;
+    color: var(--white);
+    margin: -1px;
+    z-index: 10;
+    padding: 35px 25px;
+}
+.faq-details-card-header-text {
+    text-align: initial;
+    margin: 0;
+}
+.faq-details-card-body {
+    flex-direction: column;
+    text-align: initial;
+    z-index: 8;
+    background-color: var(--white)
+}
+.faq-details-card-header-chevron {
+    display: block;
+    margin:  10px 10px;
+    text-align: left;
+}
+.faq-details-card-body-text {
+    font-family: 'TeshrinAR+LT-Light',  'SegoeUI Light', 'Segoe UI', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: var(--faq-details-details-text-color);
+}

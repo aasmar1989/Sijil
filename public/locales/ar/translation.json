@@ -1,0 +1,850 @@
+{
+  "Welcome to React": "Welcome to React and react-i18next EN",
+  "header": {
+      "who_we_are": "من نحن",
+      "our_services": "خدماتنا",
+      "media": "وسائل الإعلام",
+      "references": "معلومات تهمك",
+      "who_we_are_dropdown": {
+          "about_sijil": "عن سجل",
+          "chairman_message": "رسالة رئيس مجلس الإدارة",
+          "ceo_message": "رسالة الرئيس التنفيذي",
+          "our_clients": "عملائنا",
+          "our_team": "فريقنا"
+      },
+      "e_services": "الخدمات الإلكترونية",
+      "sijil": "SIJIL Portal"
+  },
+  "main": {
+      "first_screen": {
+          "subheader": "سجل",
+          "header_1": "أول شركة سعودية  ",
+          "header_2": "شركة ",
+          "header_3": "سعودية",
+          "text": "مختصة بتقديم حلول مبتكرة لتسجيل عقود الإيجار التمويلي.",
+          "about_us": "من نحن",
+          "our_services": "خدماتنا"
+          
+      },
+      "statistic": {
+        "subheader": "أرقام SIJIL",
+        "header": "الأرقام التي تم تحقيقها في سجل",
+        "list": [
+          {
+            "number": "12",
+            "text": "عدد العقود السجلة"
+          },
+          {
+            "number": "6",
+            "text": "عدد شهادات استعادة الأصل"
+          },
+          {
+            "number": "25",
+            "text": "عدد شهادات التنفيذ المالي"
+          }
+        ]
+      },
+      "reasons": {
+          "header": "لماذا سجِل",
+          "subheader1": "الإيجار التمويلي قبل سجل",
+          "subheader2": " التمويلي بعد سجل",
+          "slide_list": [
+            {
+              "item_list": [
+                {
+                  "text": "عدم وضوح آلية التنفيذ"
+                },
+                {
+                  "text": "عدم وجود مركز موحد للبيانات"
+                },
+                {
+                  "text": "سوء استخدام الحقوق اللكية"
+                },
+                {
+                  "text": "عدم وجود شركات مرخّصة لإستعادة الأصول"
+                }
+              ]
+            },
+            {
+              "item_list": [
+                {
+                  "text": "تحسين منظومة الإيجار التمويلي والتعامل مع شركات استعادة الأصل المرخصة من وزارة العدل."
+                },
+                {
+                  "text": "تجنب تضارب المصالح"
+                },
+                {
+                  "text": "تعزيز الشفافية"
+                },
+                {
+                  "text": "توفير معلومات عن السوق"
+                }
+              ]
+            }
+          ]
+      },
+      "our_service": {
+          "header": "خدماتنا",
+          "list": [
+            {
+              "header_text": "تسجيل العقود",
+              "hover_text": "تسجيل عقود الإيجار التمويلي للمركبات والعقارات والأصول المنقولة خلاف المركبات، ومايطرأ عليها من تعديلات، أو إغلاق العقد."
+            },
+            {
+              "header_text": "الاستفسارات العامة",
+              "hover_text": "طلب معلومات حول العقود، أو الأصول، أو الشهادات، أو المستأجر."
+            },
+            {
+              "header_text": "شهادة استعادة الأصل",
+              "hover_text": "إصدار شهادة استعادة الأصل المنقول؛ والمعتمدة من وزارة العدل."
+            },
+            {
+              "header_text": "شهادة التنفيذ المالي",
+              "hover_text": "إصدار شهادات معتمدة من وزارة العدل على المبالغ المالية المتعلقة بعقود الإيجار التمويلي."
+            },
+            {
+              "header_text": "انتقال الحقوق",
+              "hover_text": "تسجيل عملية انتقال الحقوق المتعلقة بعقود الإيجار التمويلي والأصول، ودعم إعادة التسنيد."
+            }
+          ]
+      },
+      "our_clients": {
+          "subheader": "الناس يثقون بنا",
+          "header": "عملاؤنا",
+          "list": [
+            {
+              "text": "المؤجرون"
+            },
+            {
+              "text": "الجهات التشريعية"
+            },
+            {
+              "text": "المستشمرون"
+            },
+            {
+              "text": "شركات استعادة الأصل المنقول"
+            }
+          ],
+          "button": "عملاؤنا"
+      },
+      "faq": {
+          "subheader": "الأسئلة المتكررة",
+          "header": "الأسئلة الشائعة",
+          "list": [
+            {
+              "question": "ماهي الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل)؟",
+              "answer": "هي شركة سعودية مرخصة من قبل مؤسسة النقد العربي السعودي لتقديم الخدمات والحلول في مجال تسجيل عقود الإيجار التمويلي، وتقديم سجلات خاصة بالعقود، بما في ذلك بيانات الأصول المؤجرة. وقد تم إنشاء شركة سجل لتكون بمثابة أداة فاعلة نحو تحسين منظومة الإيجار التمويلي والتسجيل التعاقدي، في قطاع التمويل بالمملكة العربية السعودية."
+            },
+            {
+              "question": "كيف تأسست سجل ومتى بدأت بممارسة أعمالها بشكل فعلي؟",
+              "answer": "عد صدور المرسوم الملكي رقم م / 48 الصادر بتاريخ 13 شعبان 1433 هـ، الموافق 3 يوليو 2012 كلّف بإنشاء شركة لتسجيل العقود كشركة سعودية مساهمة، وبدأت سجل بممارسة أعمالها في يوليو 2019 م"
+            },
+            {
+              "question": "من هم ملاك الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل)؟",
+              "answer": "الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل) هي شركة مساهمه مغلقة مملوكة من قبل جميع البنوك وشركات التمويل التي تقدم منتجات الإيجار التمويلي في المملكة والبالغ عددهم 43 بنك وشركة تمويل."
+            },
+            {
+              "question": "ماهو الدور الذي تسهم به سجل لتحسين الاقتصاد السعودي؟",
+              "answer": "تساهم سجل في تنظيم سوق الإيجار التمويلي وضمان الحقوق المتعلقه لجميع الأطراف، وذلك من خلال عملية توثيق العقود وتعزيز مستوى الشفافية بالتعاون مع الجهات ذات العلاقة."
+            }
+          ],
+          "button_more_faq": "المزيد من الأسئلة الشائعة",
+          "button_contact_us": "اتصل بنا"
+        }
+  },
+  "about": {
+      "history": {
+          "header": "تاريخ سجل",
+          "our_past": "الماضي: \"بدايتنا\"",
+          "our_past_text": "بموجب المرسوم الملكي رقم م/٤٨ الصادر بتاريخ ١٣ شعبان ١٤٣٣هـ، الموافق ٣ يوليو ٢٠١٢ ،شرعت مؤسسة النقد العربي السعودي بتأسيس \"سجل\" لتكون أول شركة سعودية لتسجيل عقود الايجار التمويلي، وتمكنت \"سجل\" منذ تأسيسها في عام ٢٠١٧ بدعم منظومة الايجار التمويلي، من خلال معرفتها بحاجة السوق ومتطلباته، والصعاب التي تواجه الافراد والشركات في إيجاد منظومة للايجار التمويلي موثوقة ومرخصة.",
+          "our_present": "الحاضر: \"رحلتنا\"",
+          "our_present_text": "استطاعت \"سجل\" خلال الفترة القصيرة التي نشأت فيها من أن تثبت نفسها في قطاع الايجار التمويلي، حيث عملت على تقليل التكلفة في النهج القضائي وتقليل تكاليف سحب الاصول، وإتاحة بيانات كافية. و تمكنت سجل من ضم 12 مصرفا مرخصا مما أتاح لها المساهمة بإجمالي ٨٠ ٪من عقود الايجار المستحقة الاداء، وقد مكنها هذا النجاح من التوسع لتضم ٢٥ شركة تمويلية مرخصة و٦ شركات للتمويل العقاري.",
+          "our_future": "المستقبل: \"تطلعاتنا\"",
+          "our_future_text": "نتطلع لصنع مستقبل ناجح لمنظومة الايجار التمويلي بشكل خاص واقتصاد المملكة بشكل عام، كما نهدف من خلال \"سجل\" إلى تغيير مفهوم التأجير التمويلي والتخلص من العقبات التي تواجه المؤجرين والمصارف وكافة الاطراف المعنية في عملية التمويل مع دعم الشركاء وبالتعاون مع مؤسسة النقد، وأخيرا نطمح لن نكون قدوة يحتذى بها في الثقة والشفافية لجميع معاملتنا."
+      },
+      "vision": {
+          "header_1": "رؤيتنا",
+          "text_1": "نضمن لك توثيق عقودك بأعلى مستوى من الشفافية",
+          "header_2": "مهمتنا",
+          "text_2": "أن نطور منظومة اليجار التمويلي، والتسجيل التعاقدي بحلول مبتكرة"
+      },
+      "values": {
+          "header": "قيمنا",
+          "item_header_1": "الابتكار",
+          "item_text_1": "حلول مبتكرة لتجربة سهلة",
+          "item_header_2": "الثقة",
+          "item_text_2": "موثوقية عالية الدقة",
+          "item_header_3": "الالتزام",
+          "item_text_3": "إنجاز العمل وفق أعلى معايير الجودة"
+      }
+  },
+  "ceo": {
+      "header": "رسالة الرئيس التنفيذي",
+      "ceo_name": "عبدالله الرويس",
+      "ceo_position": "لرئيس التنفيذي",
+      "ceo_message_header": "اكتمل تأسيس شركة \"سجل\" لتتوج جهود سنين من التخطيط ",
+      "ceo_message_paragraph_list": [
+        {"text": "والدراسة والتحليل من أجل إيجاد حلول عملية ومبتكرة في مجال الإيجار التمويلي، وقد تمكنا من أن نكون الشركة السعودية الأولى في الإيجار التمويلي، حيث مرت “سجل” بالعديد من المراحل التطويرية وواجهت العديد من العقبات ابتداءً من مرحلة بناء فريق العمل وحتى عملية وضع الأنظمة الداخلية، وبالرغم من تلك الصعاب فقد تكللت جهودنا ولله الحمد باكتمال الربط التقني مع عدد من المؤجرين."},
+        {"text": "وتمكنت \"سجل\" من إطلاق بوابتها الإلكترونية لاستقبال طلبات المؤجرين."},
+        {"text": "ونسعى بأن نكون حلقة وصل بين جميع شركاء المنظومة لنكون الشريك المؤثر في دعم النجاح وتعزيز النمو بقطاع التمويل في المملكة، مستندين في ذلك على دعم مؤسسة النقد العربي السعودي وخبرة فريق عملنا، ومعرفتنا العميقة لأنظمة التمويل ولوائحه التنفيذية وجميع الضوابط الصادرة من الجهات التشريعية "},
+        {"text": "نؤمن في “سجل” أن إدارة العلاقات بين أطراف أي عقد، تتطلب قدراً عالياً من الحكمة، وحساً عالياً بالمسؤولية، لذلك نعتزم على الالتزام بدورنا الهام في خوض التحديات التي تواجه منظومة الإيجار التمويلي وتيسير عملية نفاذية العقود واسترداد الأصول وخفض تكلفتها من خلال توفير معلومات دقيقة للجهات التنفيذية."},
+        {"text": "نعمل في “سجل” على الالتزام بقيمنا التي تقود خطة أعمالنا، لذا تجسد معاملتنا الشفافية والثقة في عقود الإيجار التمويلي ونفاذيتها، ونسعى لصناعة تجربة مثالية آملين أن نساهم في صناعة مستقبل أفضل لقطاع التمويل في المملكة في ظل رؤية المملكة 2030."},
+        {"text": "ختاماً، أتوجه بالشكر الجزيل لفريق عمل مؤسسة النقد العربي السعودي ووزارة العدل على دعمهم اللامحدود كما أشكر جميع أعضاء فريق عمل “سجل” العظيم على جهودهم الاستثنائية لتحقيق هذه الانطلاقة المميزة."}
+      ]
+  },
+  "chairman": {
+      "header": "رسالة رئيس مجلس الإدارة",
+      "chairman_name": "مازن الغنيم",
+      "chairman_position": "رئيس مجلس الإدارة",
+      "chairman_message_header": "شهد القطاع المالي في المملكة تطوراً كبيراً ",
+      "chairman_message_paragraph_list": [ 
+        {"text": "في الآونة الأخيرة تزامناً مع رؤية المملكة لعام 2030، وقد عززت الرؤية مختلف أنشطة القطاع المالي ودعم مختلف المشاريع من أجل تحقيق أهداف رؤيتنا المستقبلية، وسيمكننا هذا الدعم من تنويع مصادر دخل قطاع التمويل من الادخار والاستثمار لتحقيق التطور المؤسسي اللازم لتكون مملكتنا الحبيبة في أوائل أسواق التمويل المتقدمة في العالم."},
+        {"text": "وتأتي سجل اليوم للمساهمة في دعم وتحقيق تطلعات ومبادرات رؤية المملكة 2030 التي ستمكننا من الدفع بعجلة التنمية الاقتصادية في المملكة وخلق بيئة رقمية تشجع على التطوير والابتكار."},
+        {"text": "تسعى سجل أن تكون الشركة الرائدة في القطاع المالي من خلال تعزيز مبدئ الشفافية بين سجل وعملائها لضمان نفاذية العقود التي تدعم بيئة الأعمال لسوق الإيجار التمويلي، كما نسعى إلى ترسيخ قيم وتيدة للتحول الرقمي المؤسسي، وتحقيق نهج من التوزان لتحقيق الثبات المالي من خلال الخدمات المقدمة."},
+        {"text": "فنحن في سجل ننظر لدورنا في العملية المالية على أنها أساس لبناء مستقبل مزدهر لمملكتنا العظيمة في ظل قيادتنا الرشيدة، وخطوة أساسية في طريقنا للنماء والتقدم، ولتحقيق الأمن والازدهار لاقتصادنا المحلي."},
+        {"text": "وختاماً، أوجه شكري وتقديري واعتزازي لشركاء نجاحنا: فريق عمل مؤسسة النقد العربي السعودي وزارة العدل، الذين يضيئون لنا الطريق لمستقبل مبهر."},
+        {"text": "كما يمتد الشكر لفريق عمل سجل وموظفيها المخلصين الذين يعملون بكل جهد نحو تقديم الأفضل ويضعون المسؤولية نصب أعينهم، فلكم مني جزيل الشكر والتقدير."}
+      ]
+  },
+  "our_clients": {
+      "header": "عملاؤنا",
+      "banks_tab": "المؤجرون",
+      "companies_tab": "الجهات التشريعية",
+      "investors_tab": "المستثمرون",
+      "authorities_tab": "اشركات استعادة الأصل المنقول"
+  },
+  "team": {
+      "team": {
+        "header": "الفريق",
+        "subheader": "تعرف على فريق SIJIL",
+        "paragraphs": [
+          {
+            "texts": [
+              { "text": "تفتخر سجل بفريقها الذي يضم نخبة من الكوادر الوطنية السعودية، والمؤهلي من أصحابالخبرة في مجال الايجار التمويلي."}
+            ]
+          }
+        ]
+      },
+      "members": {
+        "header": "أعضاء مجلس الإدارة",
+        "employee_list": [
+          {
+            "name": "مازن الغنيم ",
+            "jobTitle": "رئيس مجلس الإدارة",
+            "description": "الرئيس التنفيذي لشركة بداية لتمويل المنازل",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "رائد العبدالكريم",
+            "jobTitle": "عضو",
+            "description": "مدير عام مخاطر الائتمان في بنك البلاد",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "ناصر اليامي",
+            "jobTitle": "عضو",
+            "description": "نائب رئيس أول مدير إدارة رقابة الائتمان في بنك الرياض",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "تركي البيز",
+            "jobTitle": "نائب رئيس مجلس الإدارة",
+            "description": "الرئيس التنفيذي لشركة إيجارة للتمويل",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "بشار القنبيط",
+            "jobTitle": "عضو",
+            "description": "مدير عام الفروع والمبيعات في البنك السعودي البريطاني",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "فيصل باعقيل",
+            "jobTitle": "عضو",
+            "description": "الرئيس التنفيذي (اسناد) البنك الأهلي التجاري",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          },
+          {
+            "name": "صافي المجاهد",
+            "jobTitle": "عضو",
+            "description": "المدير التنفيذي للمساندة في شركة أوركس السعودية للتأجير التمويلي",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+          }
+        ]
+      },
+      "management": {
+        "header": "الإدارة التنفيذية",
+        "employee_list": [
+        {
+            "name": "عبدالله الرويس",
+            "jobTitle": "الرئيس التنفيذي",
+            "description": "Proin in placerat turpis. Nunc scelerisque vel rhoncus id. Aliquam إيرات فولوتبات. Donec vulputate tortor ultricies dui maximus",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+        },
+        {
+            "name": "تركي البيز",
+            "jobTitle": "عضو",
+            "description": "Proin in placerat turpis. Nunc scelerisque vel rhoncus id. Aliquam إيرات فولوتبات. Donec vulputate tortor ultricies dui maximus",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+        },
+        {
+            "name": "طارق السعودي",
+            "jobTitle": "رئيس المالية",
+            "description": "Proin in placerat turpis. Nunc scelerisque vel rhoncus id. Aliquam إيرات فولوتبات. Donec vulputate tortor ultricies dui maximus",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+        },
+        {
+            "name": "أحمد الواصل",
+            "jobTitle": "رئيس الأعمال",
+            "description": "Proin in placerat turpis. Nunc scelerisque vel rhoncus id. Aliquam إيرات فولوتبات. Donec vulputate tortor ultricies dui maximus",
+            "email": "test@test.com",
+            "linkedIn": "https://www.linkedin.com/"
+        }
+      ]
+    }
+  },
+  "media": {
+    "header": "المركز الإعلامي",
+    "more_button": "المزيد>",
+    "tabs": [
+          {
+              "header": "الأخبار",
+              "slider_list": [
+                  {"item": [
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      }
+                  ]},
+                  {"item": [
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      }
+                  ]}
+              ]
+          },
+          {
+              "header": "الفعاليات",
+              "slider_list": [
+                  {"item": [
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      }
+                  ]},
+                  {"item": [
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      },
+                      {
+                          "header": "How Big A Drawdown Can You Survive?",
+                          "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                          "timedate": "13 jan 2021 at 12:00 am",
+                          "link": "https://www.google.com/"
+                      }
+                  ]}
+              ]
+          }
+      ]
+     
+},
+  "contact_us": {
+      "header": "في حال وجود استفسارات أو مقترحات نسعد بخدمتك ....",
+      "subheader": "تجدنا هنا:",
+      "company_email": "sijil.office@gmail.com",
+      "company_phone": "9-800-321-10",
+      "company_linked_in": "@sijil",
+      "company_address": "عنوان سجل",
+      "form": {
+        "name_label": "عنوان الرسالة",
+        "name_placeholder": "أدخل عنوان الرسالة",
+        "mobile_label": "الاسم كامل",
+        "mobile_placeholder": "أدخل الاسم كامل",
+        "title_label": "رقم التواصل",
+        "title_placeholder": "أدخل رقم التواصل",
+        "email_label": "البريد الالكتروني",
+        "email_placeholder": "أدخل البريد الالكتروني",
+        "message_label": "الرسالة",
+        "message_placeholder": "أدخل الرسالة",
+        "submit_button": "ارسال",
+        "success": "تم بنجاح",
+        "failed": "فشل",
+        "required": "مطلوب",
+        "email_validation": "الرجاء ادخال بريد الكتروني صحيح"
+      }
+  },
+  "opportunities": {
+      "header": "فرص العمل",
+      "form": {
+        "name_label": "الاسم الكامل",
+        "name_placeholder": "أدخل الاسم الكامل",
+        "mobile_label": "رقم التواصل/ الجوال",
+        "mobile_placeholder": "أدخل رقم التواصل",
+        "email_label": "البريد الالكتروني",
+        "email_placeholder": "أدخل البريد الالكتروني",
+        "years_of_experience_label": "عدد سنوات الخبرة",
+        "years_of_experience_placeholder": "أدخل عدد سنوات الخبرة",
+        "major_label": "التخصص",
+        "major_placeholder": "أدخل التخصص",
+        "linked_in_label": "رابط صفحتك على لينكد إن",
+        "linked_in_placeholder": "أدخل رابط صفحتك على لينكد إن",
+        "submit_button": "ارسال",
+        "success": "تم بنجاح",
+        "failed": "فشل",
+        "required": "مطلوب",
+        "email_validation": "الرجاء ادخال بريد الكتروني صحيح"
+      }
+  },
+  "faq":{
+  "header":"Frequently Asked Questions",
+  "slide_list":[
+    { "item_list":[
+          {
+              "question":"ماهي الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل)؟",
+              "answer":[
+                { "text":"هي شركة سعودية مرخصة من قبل مؤسسة النقد العربي السعودي لتقديم الخدمات والحلول في مجال تسجيل عقود الإيجار التمويلي، وتقديم سجلات خاصة بالعقود، بما في ذلك بيانات الأصول المؤجرة. وقد تم إنشاء شركة سجل لتكون بمثابة أداة فاعلة نحو تحسين منظومة الإيجار التمويلي والتسجيل التعاقدي، في قطاع التمويل بالمملكة العربية السعودية." }
+              ]
+          },
+          {
+              "question":"كيف تأسست سجل ومتى بدأت بممارسة أعمالها بشكل فعلي؟",
+              "answer":[
+                  { "text":"بعد صدور المرسوم الملكي رقم م / 48 الصادر بتاريخ 13 شعبان 1433 هـ، الموافق 3 يوليو 2012 كلّف بإنشاء شركة لتسجيل العقود كشركة سعودية مساهمة، وبدأت سجل بممارسة أعمالها في يوليو 2019 م"}
+              ]
+            },
+            {
+              "question":"من هم ملاك الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل)؟",
+              "answer":[
+                  { "text":"الشركة السعودية لتسجيل عقود الإيجار التمويلي (سجل) هي شركة مساهمه مغلقة مملوكة من قبل جميع البنوك وشركات التمويل التي تقدم منتجات الإيجار التمويلي في المملكة والبالغ عددهم 43 بنك وشركة تمويل." }
+              ]
+            },
+            {
+              "question":"ماهو الدور الذي تسهم به سجل لتحسين الاقتصاد السعودي؟",
+              "answer":[
+                  { "text":"تساهم سجل في تنظيم سوق الإيجار التمويلي وضمان الحقوق المتعلقه لجميع الأطراف، وذلك من خلال عملية توثيق العقود وتعزيز مستوى الشفافية بالتعاون مع الجهات ذات العلاقة." }
+              ]
+            },
+            {
+              "question":"كيف يمكنني الحصول على خدمات سجل؟",
+              "answer":[
+                  { "text":"يمكن الاستفادة من خدمات سجل باتباع الخطوات التالية:" },
+                  { "text":"1. ترخيص مزاولة نشاط الإيجار التمويلي من" },
+                  { "text":"2. مؤسسة النقد العربي السعودي (ساما) توقيع اتفاقية الموجرين مع سجل" },
+                  { "text":"3. استكمال متطلبات الربط التقني" }
+              ]
+            }
+        ]
+    },
+    { "item_list":[
+          {
+              "question":"هل يوجد رسوم للخدمات المقدمة من شركة سجل؟",
+              "answer":[
+                { "text":"Yes, for more details you may contact SIJIL’s Customer Relationship Management Office via:" },
+                { "text": "Rm@sijil.sa :البريد الإلكتروني" },
+                { "text": "الجوال: 0531088283" }
+              ]
+          },
+          {
+              "question":"من أين تحصل سجل على المعلومات؟",
+              "answer":[
+                  { "text":"تحصل سجل على بيانات عقود الإيجار التمويلي من المؤجرين من خلال خدمة تسجيل العقود وتحديثها" }
+              ]
+            },
+            {
+              "question":"من هم المستفيدون من خدمات سجل؟",
+              "answer":[
+                  { "text":"تقدم سجل خدماتها لعدة شرائح من المستفيدين:" },
+                  { "text":"1. البنوك و شركات التمويل" },
+                  { "text":"2. شركات استعادة الأصل" },
+                  { "text":"3. الجهات التشريعية" },
+                  { "text":"4. المستثمرين" }
+              ]
+            },
+            {
+              "question":"ما هي الخدمات التي تقدمها سجل؟",
+              "answer":[
+                  { "text":"تقدم سجل خدماتها عبر عدة قنوات:" },
+                  { "text":"‌أ) خدمات عبر الربط التقني:" },
+                  { "text":"1. تسجيل العقود: تسجيل عقود الإيجار التمويلي للمركبات والعقارات" },
+                  { "text":"2. تعديل العقود: التغيير الذي يطرأ على الشروط والأحكام و / أو بيانات الأصول المرتبطة  بالعقد" },
+                  { "text":"3. إغلاق العقود:  طلب \"إغلاق\" عقد عند تسوية المستحقات من قبل المستأجرين و / أو لأي سبب آخر" },
+                  { "text":"‌ب) خدمات عبر نظام سجل:" },
+                  { "text":"1. الاستفسارات العامة:  طلب معلومات  حول العقود/ الأصول/ الشهادات /المستأجر" },
+                  { "text":"2. شهادة طلب استعادة الأصل:  إصدار الشهادة المعتمدة من قبل محكمة التنفيذ ، والتي تسمح لشركات استعادة  الأصل  المرخصة من وزارة العدل  باستعادة الأصل" },
+                  { "text":"3. شهادة التنفيذ المالي:  إصدار شهادة معتمدة من محكمة التنفيذ ، والتي تقدم المطالبات المالية للعقد" },
+                  { "text":"4. نقل الحقوق ودعم إعادة التمويل:  توثيق انتقال الحقوق و / أو معاملات إعادة التمويل لمنتجات التأجير التمويلي والتحقق من ملكية الأصول" },
+                  { "text":"‌ج) خدمة عبر  الملف المشترك الآمن" },
+                  { "text":"1. تسجيل العقود للأصول الاخرى خلاف المركبات:تسجيل عقود أي أصول منقولة بنظام التأجير التمويلي والغير مسجلة في أي سجل عام ويتم تأجيرها بشكل فردي أو تجاري." }
+              ]
+            },
+            {
+              "question":"ماهي الجهة الإشرافية والرقابية على سجل؟",
+              "answer":[
+                  { "text":"تتولى مؤسسة النقد العربي السعودي (ساما) مهام الإشراف والرقابة على كافة أعمال سجل." }
+              ]
+            }
+        ]
+    },
+    { "item_list":[
+          {
+            "question":"ماهي الأنظمة واللوائح التي تحكم كافة أعمال سجل؟",
+            "answer":[
+                { "text":"1. نظام الايجار التمويلي الصادرة من مؤسسة النقد العربي السعودي " },
+                { "text": "2. اللائحة التنفيذية لنظام الايجار التمويلي الصادرة من مؤسسة النقد العربي السعودي" },
+                { "text": "3. قواعد تنظيم التصرف في أصول التمويل أو الحقوق الناشئة عنها  الصادرة من مؤسسة النقد العربي السعودي" },
+                { "text": "4. ضوابط تسلم المؤجر الأصول المنقولة الصادرة من وزارة العدل" }
+            ]
+          }
+      ]
+    }
+  ]
+  },
+  "our_service": {
+      "header": "خدماتنا",
+      "service_1": {
+          "header": "تسجيل العقود",
+          "text_1": "تسجيل عقود الايجار التمويلي للمركبات والعقارات والاصول المنقولة خلاف الركبات، ومايطرأ عليها من تعديلات، أو إغلاق العقد.",
+          "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus، consectetur eleifend nibh",
+          "text_2": "consectetur ornare. Donec id euismod mauris، iaculis mattis felis. Cras et fringilla neque، in condimentum metus."
+      },
+      "service_2": {
+          "header": "الاستفسارات العامة",
+          "text_1": "طلب معلومات حول العقود، أو الأصول، أو الشهادات، أو المستأجر.",
+          "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus، consectetur eleifend nibh",
+          "text_2": "consectetur ornare. Donec id euismod mauris، iaculis mattis felis. Cras et fringilla neque، in condimentum metus."
+      },
+      "service_3": {
+          "header": "شهادة استعادة الأصل",
+          "text_1": "إصدار شهادة استعادة الأصل المنقول؛ والمعتمدة من وزارة العدل.",
+          "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus، consectetur eleifend nibh",
+          "text_2": "consectetur ornare. Donec id euismod mauris، iaculis mattis felis. Cras et fringilla neque، in condimentum metus."
+      },
+      "service_4": {
+          "header": "شهادة التنفيذ المالي",
+          "text_1": "إصدار شهادات معتمدة من وزارة العدل على المبالغ المالية المتعلقة بعقود الإيجار التمويلي.",
+          "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus، consectetur eleifend nibh",
+          "text_2": "consectetur ornare. Donec id euismod mauris، iaculis mattis felis. Cras et fringilla neque، in condimentum metus."
+      },
+      "service_5": {
+          "header": "انتقال الحقوق",
+          "text_1": "تسجيل عملية انتقال الحقوق المتعلقة بعقود الإيجار التمويلي والأصول، ودعم إعادة التسنيد.",
+          "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus، consectetur eleifend nibh",
+          "text_2": "consectetur ornare. Donec id euismod mauris، iaculis mattis felis. Cras et fringilla neque، in condimentum metus."
+      }
+  },
+  "footer": {
+      "text_1": "خاضعة لاشراف ورقابة مؤسسة النقد العربي السعودي، مرخص لها بموجب المرسوم الملكي رقم م / 48 الصادر بتاريخ 13 شعبان 1433 هـ، الموافق 3 يوليو 2012 ",
+      "all_rights": "جميع الحقوق محفوظة SIJIL 2020",
+      "faq": "الأسئلة الشائعة",
+      "opportunities": "التوظيف",
+      "investors_relations": "علاقات المستثمرين",
+      "contact_us": "اتصل بنا",
+      "sitemap": "خريطة الموقع"
+  },
+  "rules": {
+      "title": "لوائح وأنظمة",
+      "links": [
+          { "title": "نظام الايجار التمويلي", "href": "https://www.sama.gov.sa/en-us/laws/pages/financelaws.aspx" },
+          { "title": "اللائحة التنفيذية لنظام الايجار التمويلي", "href": "https://www.sama.gov.sa/en-us/laws/pages/financerulesandregulations.aspx?&&p_sortbehavior=0&p_samafilepublishdate=20180908%2021:00:00&&pagefirstrow=1&view=27a22104-34ce-4e14-97c4-744140238119" },
+          { "title": "قواعد تنظيم التصرف في أصول التمويل والحقوق الناشئة عنها", "href": "https://www.sama.gov.sa/en-us/laws/pages/financelaws.aspx" },
+          { "title": "ضوابط استرداد المؤجر للأصول المنقولة", "href": "https://www.sama.gov.sa/en-us/laws/pages/financerulesandregulations.aspx?&&p_sortbehavior=0&p_samafilepublishdate=20180908%2021:00:00&&pagefirstrow=1&view=27a22104-34ce-4e14-97c4-744140238119" }
+      ]
+  },
+  "sitemap": {
+      "title": "خريطة الموقع"
+  },
+  "initiatives": {
+      "title": "Initiatives",
+      "header": "المبادرات المستقبلية لسجل",
+      "subTitle": "المعلومات التي يوفرها المستخدم: أثناء استخدام Nucleo ، قد نطلب منك تزويدنا بمعلومات شخصية معينة يمكن استخدامها للاتصال أو التعرف عليك ، والرد على طلباتك / استفساراتك ، وخدمة طلبات الشراء الخاصة بك.",
+      "housing": "برنامج الإسكان",
+      "financial_sector": "برنامج تطوير القطاع المالي",
+      "transformation": "برنامج التحول الوطني",
+      "hover_housing": [
+        {"text": "تطوير منتجات تمويل الإسكان"},
+        {"text": "تنظيم سوق الإيجار التمويلي"},
+        {"text": "توحيد العقود"}
+    ],
+    "hover_financial_sector": [
+        {"text": "التمكين من دعم نمو القطاع الخاص"},
+        {"text": "تطوير السوق المالية"},
+        {"text": "تمكين التخطيط المالي"}
+    ],
+    "hover_transformation":  [
+        {"text": "الحد من عدد الدعاوى القضائية "},
+        {"text": "رفع جودة الخدمات "},
+        {"text": "تحسين البنية التحتية لضمان سهولة العمل"}
+    ]
+  },
+  "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated: May 26, 2020",
+      "updated_by": "By SIJIL Lorem ipsum",
+      "informs": "This page informs you of Amber Creative S.R.L. ('Amber Creative', 'us', 'we', or 'our') policies regarding the collection, use and disclosure of Personal Information when you use the SIJIL application and website (from now on 'SIJIL'). We will not use or share your information with anyone except as described in this Privacy Policy.",
+      "info_title": "Information Collection And Use",
+      "sub_text1": "User-Provided Information: while using Nucleo, we may ask you to provide us with certain personal information that can be used to contact or identify you, respond to your requests/ inquiries, service your purchase orders.",
+      "sub_text2": "Here is a list of information we store if you create a SIJIL account and use the SIJIL application:",
+      "list1": [
+          "Email address and password, used to identify you when you log in via our website or app.",
+          "Name and Billing information, used to generate an invoice after you make a purchase on our website.",
+          "Device unique identifier, used to identify your device when you log in via the Nucleo app.",
+          "If you're a team admin -> your team members' email addresses, used to manage the access to your team projects."
+      ],
+      "sub_text3": "We DO NOT store information about your payment details. All payments are processed via Paypal or Stripe. When you make a purchase, we store the anonymous* version of your Internet Protocol (“IP”) address.",
+      "sub_text4": "*we do not collect your entire IP address, which means that we cannot identify your exact location, but just your country of origin.",
+      "sub_text5": "You can send a request to delete all your personal data by checking the designated option on your account page and clicking the Save button. This action will delete your Name and billing information. If you want to delete your email and password (or if you are a team admin and you want to delete the emails of all your team members), you need to delete your account. You can send us a request to delete your account by checking the designated option on the account page and clicking the Save button. By doing so, you will remove your access to the Nucleo app and account area.",
+      "sub_text6": "Cookies Information: when you visit Nucleo, we put small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.",
+      "sub_text7": "Cookies are used to:",
+      "list2": [
+          "measure how you use the website so it can be updated and improved based on your needs.",
+          "remember your login information so that you don't need to enter them again when you come back."
+      ],
+      "sub_text8": "Find out more about how to manage cookies.",
+      "sub_text9": "If you subscribed to our newsletter, we shared your email address with Mailchimp, that is the email marketing service we use to create our newsletter campaigns. However, we will never share your email address with other third parties, and we will use it for the sole purpose of sending you emails about Nucleo or other Amber Creative news. If you wish to unsubscribe from our newsletter, you can do that by clicking the 'unsubscribe' link in the footer of each newsletter, or by clicking the link below.",
+      "sub_text10": "Unsubscribe from the SIJIL newsletter",
+      "sub_text11": "Log File Information: we collect information that your browser sends whenever you visit SIJIL. This information may include an anonymous version of your IP address, browser type, browser version, the pages of SIJIL that you visit and other statistics. Also, we may use third-party services such as Google Analytics that collect, monitor  and analyze this type of information to increase SIJIL website functionality.",
+      "protect_title": "How We Protect Your Information",
+      "sub_text12": "We care about the integrity and security of your personal information. However, since some of your personal information may be stored in locations outside of our direct control (e.g., on servers or databases co-located with hosting providers) we cannot guarantee their security if they are accessed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. We are not responsible for the functionality or security measures of any third party.",
+      "sub_text13": "To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications from us, at all times.",
+      "policy_list": [
+          {
+              "title": "١. مقدمة",
+              "paragraphs": [
+                  { "text": "انطلاقاً من أهمية المعلومات وسريتها، وحرصاً من إدارة الشركة السعودية لتسجيل عقود الإيجار التمويلي والمشار إليها فيما يلي بـ (سجل) على تقديم أفضل مستويات الخدمة، فإن إدارة المنصة تلتزم بالمحافظة على سرَية وخصوصية معلومات المستخدم والمواد المدخلة من قبلهم كأساس في التعامل مع العملاء، ولن تقوم إدارة المنصة بالإفصاح عن تلك المعلومات إلا وفقاً للضوابط المحددة والمنصوص عليها، مع التأكيد على أن صلاحية الاطلاع على المعلومات تقتصر على الأشخاص المصرح لهم فقط." }
+              ] 
+          },
+          {
+              "title": "٢.  حماية المعلومات",
+              "paragraphs": [
+                  { "text": "تقوم (سجل) باتخاذ الإجراءات والتدابير المناسبة والملائمة للمحافظة على معلومات المستخدم التي لديها بشكل آمن يضمن حمايتها من الفقدان أو الدخول غير المصرح به أو إساءة الاستخدام، أو التعديل والإفصاح غير المصرح بهما." }
+              ]
+          },
+          {
+              "title": "3. الإفصاح ",
+              "paragraphs": [
+                  { "text": "لن تقوم إدارة منصة (سجل) بالإفصاح أو مشاركة معلومات المستخدم لأي جهات خارجية ويستثنى من ذلك:" },
+                  { "text": ".إذا كان ذلك مطلوباً بموجب النظام أو قرار المحكمة أو عندما نعتقد بحسن نية أن مثل هذا الإجراء سيكون مطلوباً أو مرغوباً فيه وفق ما يقتضيه النظام، أو للدفاع عن أو حماية حقوق الملكية الخاصة بهذا الموقع أو الجهات المستفيدة منه" },
+                  { "text": "٢. أن يكون الإفصاح ضروريًا أو مطلوبًا من أي جهة حكومية أو تنظيمية أو تشريعية أو ضريبية أو للالتزام بالقواعد الخاصة بأي سوق للأوراق المالية ذو صلة أو بموجب أي قوانين أو لوائح سارية. " }
+              ]
+          },
+          {
+              "title": "4. جمع المعلومات",
+              "paragraphs": [
+                  { "text": "تعمل الخوادم الخاصة بمنصة (سجل) تلقائياً على التقاط عنوان بروتوكول الإنترنت الخاص بك عند زيارتك الموقع. (عنوان بروتوكول الإنترنت الخاص بك هو الرقم الخاص بجهاز الكمبيوتر الذي تستخدمه، والذي يسمح للأجهزة الأخرى الموصولة بشبكة الإنترنت بتحديد وجهة البيانات الصادرة عنها، وجمع بعض المعلومات مثل نوعية المتصفح ومحرك البحث ولكن من دون التعرف على هويتك الشخصية)." },
+                  { "text": "إن استخدام المنصة لبروتوكول الإنترنت الخاص بك يساعد على تشخيص المشكلات التي تحدث في الخوادم الخاصة بها، ويساعدها أيضًا على إجراء الإحصاء اللازم لقياس استخدام الموقع (عدد الزوار ولغة جهاز الكمبيوتر الذي تستخدمه)، المنصة لا تسمح لأي جهة خارج إطار الفريق الفني لها بالاطلاع على بروتوكول الإنترنت الخاص بك." },
+                  { "text": "ب.          يتم جمع المعلومات والبيانات تلقائيا من خلال استخدام الملفات النصية (كوكيز). وهي ملفات نصية صغيرة يتم من خلالها حفظ المعلومات الأساسية التي يستخدمها موقع الشبكة من أجل تحديد الاستخدامات المتكررة للموقع وعلى سبيل المثال، (استرجاع اسمك إذا تم إدخاله مسبقا). -قد نستخدم هذه المعلومات من أجل متابعة السلوك وتجميع بيانات كلية من أجل تحسين الموقع." }
+              ]
+          },
+          {
+              "title": "5. الروابط الخارجية",
+              "paragraphs": [
+                  { "text": "قد تشتمل منصة (سجل) على روابط بالمواقع الأخرى على شبكة الإنترنت. أو إعلانات من مواقع أخرى ولا نعتبر مسئولين عن أساليب تجميع البيانات من قبل تلك المواقع، يمكنك الاطلاع على سياسات السرية والمحتويات الخاصة بتلك المواقع." }
+              ]
+          },
+          {
+              "title": "6. مسؤولية المستخدم تجاه حماية المعلومات والخصوصية",
+              "paragraphs": [
+                  { "text": "تقوم (سجل) باتخاذ الإجراءات والتدابير المناسبة والملائمة للمحافظة على معلومات المستخدم بشكل آمن يضمن حمايتها من الفقدان أو الدخول غير المصرح به أو إساءة الاستخدام، أو التعديل والإفصاح غير المصرح بهما." },
+                  { "text": "عندما نحتاج إلى أية بيانات خاصة بك؛ فإننا سنطلب منك تقديمها بمحض إرادتك. حيث ستساعدنا هذه المعلومات في الاتصال بك وتنفيذ طلباتك حيثما كان ذلك ممكنناً." },
+                  { "text": " لن يتم اطلاقاً بيع البيانات المقدمة من قبلك إلى أي طرف ثالث بغرض تسويقها لمصلحته الخاصة دون الحصول على موافقتك المسبقة ما لم يتم ذلك على أساس أنها ضمن بيانات جماعية تستخدم للأغراض الإحصائية والأبحاث دون اشتمالها على أية بيانات من الممكن استخدامها للتعريف بك." }
+              ]
+          },
+          {
+              "title": "لكي نتمكن من مساعدة المستخدم في حماية معلوماته الشخصية فإننا نوصي بما يلي:",
+              "paragraphs": [
+                  { "text": ".التواصل مع (سجل) فورًا عندما يظن أن شخصاً ما استطاع الحصول على معلومات الدخول إلى حسابك  أو أي معلومات سرية أخرى." },
+                  { "text": "ب. عدم إعطاء أي معلومات سرية عبر الهاتف أو شبكة الإنترنت ما لم تُعرف هوية الشخص أو الطرف المستقبل للمعلومة." },
+                  { "text": "ج. استخدام متصفح آمن عند القيام بإنجاز المعاملات عبر الإنترنت مع إغلاق التطبيقات غير المستخدمة على الشبكة، والتأكد من تحديث برامج الحماية من الفيروسات على الدوام." },
+                  { "text": "د. تحديث رقم الهاتف لدى إدارة (سجل) في حال تغيير رقم الهاتف" }
+              ]
+          },
+          {
+              "title": "الحق في معاينة أو تعديل أو تصحيح البيانات الشخصية",
+              "paragraphs": [
+                  { "text": "يحق لأي مستخدم يزود منصة (سجل) بمعلوماته الشخصية معاينة هذه المعلومات أو تعديلها أو تصحيحها، ويمكن للمستخدم تعديل معلوماته الشخصية من خلال طلب تعديل معلوماته الشخصية بإرسال بريد إلكتروني إلى   rm@sijil.sa" }
+              ]
+          },
+          {
+              "title": "الموقع الجغرافي",
+              "paragraphs": [
+                  { "text": "قد يُطلب من المستخدم في بعض الأحيان الموافقة على تحديد الموقع الجغرافي للمستخدم للاستفادة من بعض الخدمات المقدمة عبر منصات (سجل)." }
+              ]
+          },
+          {
+              "title": "الموافقة على سياسة الخصوصية",
+              "paragraphs": [
+                  { "text": "استخدامك لمنصة سجل يعني موافقتك على سياسة الخصوصية هذه، والضوابط والشروط التي تحكم منصات سجل." }
+              ]
+          }
+      ]
+  },
+  "framework": {
+      "title": "SIJIL Framework",
+      "subTitle": "SIJIL works as a link between all stakeholders of the finance leasing sector to facilitate communication and enhance transparency between the following parties:",
+      "list": [
+          {
+              "title": "Lessons",
+              "text": "SIJIL’s services allow lessors to register their contracts and benefit from an array of innovative solutions and services."
+          },
+          {
+              "title": "Repossession Companies",
+              "text": "SIJIL aids repossession companies with a variety of innovative services that facilitate the asset repossession process. SIJIL also connects lessors and repossession companies by providing the necessary documentation to the concerned authorities and confirming the recovery of those assets to the lessors."
+          },
+          {
+              "title": "Ministry of Justice",
+              "text": "SIJIL works with the Ministry of Justice to verify and update land and property registration and lodge legal cases for repossession requests."
+          },
+          {
+              "title": "SAMA",
+              "text": "SIJIL works alongside the Saudi Arabian Monetary Authority (SAMA) to improve the efficiency of the finance leasing system by providing insight on organizational matters on a regular basis."
+          },
+          {
+              "title": "SIMAH",
+              "text": "SIJIL aims to structure the process of contract documentation by providing a platform that facilitates the transfer and exchange of consumers contract and credit data with the Saudi Credit Bureau (SIMAH). SIJIL also connects lessors and SIMAH to share credit history and payment information."
+          }
+      ]
+  },
+  "investor": {
+      "title": "علاقات المستثمرين",
+      "anual": "التقارير السنوية",
+      "financial": "التقارير المالية",
+      "name": "الاسم",
+      "download": "مشاركة وتحميل",
+      "for_investors": "For investor relations in SIJIL kindly contact :",
+      "telephone": "رقم التواصل",
+      "email": "البريد الالكتروني:"
+  }
+}

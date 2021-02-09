@@ -1,0 +1,91 @@
+.media-screen {
+    min-height: 680px;
+    background-image: linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    position: relative;
+}
+.header-media {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: calc(25px + 2vw);
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.media-tabs .nav-item.nav-link {
+    margin-top: 80px;
+    width: fit-content;
+    border: none;
+    background-color: transparent;
+}
+.media-tabs.nav-tabs {
+    border: none;
+    justify-content: center;
+    text-align:center;
+}
+.media-tabs > .nav-item.nav-link {
+    color: rgba(169, 180, 198, 0.8);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    width: 300px;
+    padding: 0 20px;
+    border-radius: 0px;
+    border-right: 1px solid rgba(169, 180, 198, 0.33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.media-tabs > .nav-item.nav-link:last-child {
+    border-right: none;
+}
+.media-tabs > .nav-item.nav-link:last-child {
+    border-right: none;
+}
+.media-tabs > .nav-item.nav-link.active {
+    background-color: transparent;
+    color: var(--main-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+    border-right: 1px solid rgba(169, 180, 198, 0.33)
+}
+.media-tab-content-wrap {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.media-tab-content-item-wrap {
+    padding: 50px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-media-button-prev, .slider-media-button-next {
+    width: 103px;
+    height: 76px;
+    background-image: url(../../../assets/icons/slider/arrow.svg);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-radius: 38px;
+    margin: 10px
+}
+.slider-media-button-prev:hover, .slider-media-button-next:hover {
+    background-image: url(../../../assets/icons/slider/arrowHover.svg);
+}
+.slider-media-button-prev:focus, .slider-media-button-next:focus {
+    outline: none;
+}
+.slider-media-button-next {
+    transform: rotate(180deg);
+}
+.slider-news-button-next:hover {
+    transform: rotate(180deg);
+}
+
+.button-media-wrap {
+    margin-top: 40px;
+    margin-bottom: 90px;
+}

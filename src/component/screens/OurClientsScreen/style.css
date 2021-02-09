@@ -1,0 +1,116 @@
+.our-clients-screen {
+    display: block;
+    position: relative;
+    background-image: url("../../../assets/backgrounds/pattern.png"), linear-gradient(135deg, #FFFFFF 0%, #EEF2FF 100%);
+    background-color: var(--main-bg-color);
+    background-position: top 0 right 0;
+    background-repeat: repeat-y;
+    padding-bottom: 50px;
+}
+.header-our-clients {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: calc(32px + 2vw);
+    font-weight: 700;
+    color: var(--main-text-color);
+    margin-bottom: 40px;
+}
+.subheader-our-clients {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--main-color);
+    letter-spacing: .1rem;
+    margin-top: 5px;
+    margin-top: 120px;
+}
+.our-clients-item-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.item-text-our-clients {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--our-clients-text-color);
+    letter-spacing: .1rem;
+    max-width: 290px;
+    margin-top: 40px
+}
+.col-item-wrap-our-clients {
+    padding: 15px 5px;
+}
+.button-our-clients {
+    width: 282px;
+    height: 76px;
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: var(--main-color);
+    color: var(--white);
+    border-radius: 36px;
+    text-align: center;
+    outline: none;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button-our-clients > svg {
+    margin: 2px 15px
+}
+
+.our-clients-img {
+    background: var(--white);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+div.our-clients-img::before, div.our-clients-img:hover::before {
+    content: "";
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bank-img::before {
+    background: url("../../../assets/icons/gray-4.svg");
+}
+
+.bank-img:hover::before {
+    background: url("../../../assets/icons/blue-4.svg");
+}
+
+.investor-img::before {
+    background: url("../../../assets/icons/gray-3.svg");
+}
+
+.investor-img:hover::before {
+    background: url("../../../assets/icons/blue-3.svg");
+}
+
+.companies-img::before {
+    background: url("../../../assets/icons/gray-2.svg");
+}
+
+.companies-img:hover::before {
+    background: url("../../../assets/icons/blue-2.svg");
+}
+
+.authorities-img::before {
+    background: url("../../../assets/icons/gray-1.svg");
+}
+
+.authorities-img:hover::before {
+    background: url("../../../assets/icons/blue-1.svg");
+}

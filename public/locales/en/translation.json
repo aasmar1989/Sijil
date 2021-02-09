@@ -1,0 +1,839 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next EN",
+    "header": {
+        "who_we_are": "Who we are",
+        "our_services": "Our Services",
+        "media": "Media",
+        "references": "References",
+        "who_we_are_dropdown": {
+            "about_sijil": "About Sijil",
+            "chairman_message": "Chairman Message",
+            "ceo_message": "CEO Message",
+            "our_clients": "Our Clients",
+            "our_team": "Our Team"
+        },
+        "e_services": "E-Services",
+        "sijil": "SIJIL Portal"
+    },
+    "main": {
+        "first_screen": {
+            "subheader": "SIJIL",
+            "header_1": "The First ",
+            "header_2": "Saudi ",
+            "header_3": "Company",
+            "text": "to provide innovative services and solutions for financial lease registrations",
+            "about_us": "About us",
+            "our_services": "Our services"
+            
+        },
+        "statistic": {
+            "subheader": "SIJIL Numbers",
+            "header": "Numbers Achieved in SIJIL",
+            "list": [
+                {
+                    "number": "12",
+                    "text": "Registered contracts."
+                },
+                {
+                    "number": "6",
+                    "text": "Repossession certificates."
+                },
+                {
+                    "number": "25",
+                    "text": "Enforcement Certificates."
+                }
+            ]
+        },
+        "reasons": {
+            "header": "Why SIJIL",
+            "subheader1": "Financial Leasing Before SIJIL:",
+            "subheader2": "Financial Leasing After SIJIL:",
+            "slide_list": [
+                {
+                    "item_list": [
+                        {
+                            "text": "Unclear Enforcement Mechanism."
+                        },
+                        {
+                            "text": "Absence of a unified data center."
+                        },
+                        {
+                            "text": "Misuse of ownership rights."
+                        },
+                        {
+                            "text": "Lack of licensed repossession companies."
+                        }
+                    ]
+                },
+                {
+                    "item_list": [
+                        {
+                            "text": "Improve the finance leasing ecosystem."
+                        },
+                        {
+                            "text": "Avoid conflict of interest."
+                        },
+                        {
+                            "text": "Enhance market transparency."
+                        },
+                        {
+                            "text": " Provide reliable market data"
+                        }
+                    ]
+                }
+            ]
+        },
+        "our_service": {
+            "header": "Our Services",
+            "list": [
+                {
+                    "header_text": "Contract Registration",
+                    "hover_text": "Enable lessors to register, amend and close financial lease contracts for different types of leased assets e.g. vehicle, real estate other assets."
+                },
+                {
+                    "header_text": "General Inquiries",
+                    "hover_text": "Request of information from SIJIL about contracts, certificates, or lessees."
+                },
+                {
+                    "header_text": "Repossession Certificate",
+                    "hover_text": "Issuance of a repossession certificate approved by the Ministry of Justice."
+                },
+                {
+                    "header_text": "Enforcement Certificate",
+                    "hover_text": "Issuance of financial claims certificate approved by the Ministry of Justice"
+                },
+                {
+                    "header_text": "Transfer of Rights",
+                    "hover_text": "Registration of rights transfer related to finance leases, assets, and resecuritization."
+                }
+            ]
+        },
+        "our_clients": {
+            "subheader": "PEOPLE TRUST US",
+            "header": "Our Clients",
+            "list": [
+                {"text": "Lessors"},
+                {"text": "Regulatory Authorities"},
+                {"text": "Investors"},
+                {"text": "Repossession Companies "}
+            ],
+            "button": "Our Clients"
+        },
+        "faq": {
+            "subheader": "FREQUENTLY ASKED QUESTIONS",
+            "header": "FAQ's",
+            "list": [
+                {
+                    "question": "What is Saudi Financial Lease Contract Registry Company (SIJIL)?",
+                    "answer": "Saudi Financial Lease Contract Registry Company “SIJIL” is a Saudi company licensed by the Saudi Arabian Monetary Authority to provide services and solutions for financial lease registrations, and to offer a special register of contracts, including data of leased assets. SIJIL was established to serve as an instrumental tool towards improving the mechanism of financial lease and contract registration, particularly in the financial sector in the Kingdom of Saudi Arabia."
+                },
+                {
+                    "question": "When was SIJIL founded and when did SIJIL effectively begin operations?",
+                    "answer": "Royal Decree released No. M/48 dated in 3 July 2012 mandated the establishment of a contract registry company as a joint-stock company, SIJIL registered first contract in July 2019"
+                },
+                {
+                    "question": "Who owns the Saudi Financial Lease Contract Registry Company (SIJIL)?",
+                    "answer": "The Saudi Financial Lease Contract Registry Company (SIJIL) is a joint stock company owned by all banks and finance companies that offer finance leasing products in the Kingdom, number of 43 Banks and Financial companies."
+                },
+                {
+                    "question": "What role does SIJIL play in improving the Saudi economy?",
+                    "answer": "To ensure contract enforceability and promote transparency, in corporation with the relevant authorities to avoid conflicts of interest."
+                }
+            ],
+            "button_more_faq": "More FAQ's",
+            "button_contact_us": "Contact Us"
+        }
+    },
+    "about": {
+        "history": {
+            "header": "SIJIL History",
+            "our_past": "Our Past",
+            "our_past_text": "The Saudi Financial Lease Contract Registry Company (SIJIL) was established as per the Royal Decree No. M/48 issued 13/8/1433H corresponding to 3/5/2012G to be the first Saudi company concerned with finance leasing’s contracts registry. Since its establishment in 2017, SIJIL was able to support the finance leasing framework by identifying market needs and and over come challenges faced by lessors and their individuals and commercial lessees.",
+            "our_present": "Our Present",
+            "our_present_text": "During the very short time it has operated, SIJIL was able to prove itself in the field of finance leasing. Its efforts focused on reducing costs of the judicial approach and asset repossession, in addition to providing sufficient data for the finance leasing market. SIJIL was able to include 12 licensed banks within its framework which allowed it to contribute a total of 80% of the outstanding lease contracts. This success enabled it to expand to include 25 licensed finance companies and 6 real estate finance companies.",
+            "our_future": "Our Future",
+            "our_future_text": "At SIJIL, we look forward to creating a bright future for regulated financial contracting business and the overall Saudi economy in general. We also strive through SIJIL to redefine finance leasing by eliminating all obstacles faced by lessors, banks and all involved stakeholders by collaborating with SAMA to be a model in trust and transparency. "
+        },
+        "vision": {
+            "header_1": "Our vision",
+            "text_1": "To provide contract documentation with the outmost transparency.",
+            "header_2": "Our mission",
+            "text_2": "To develop the finance leasing and contractual registration systems with innovative solutions"
+        },
+        "values": {
+            "header": "Our Values",
+            "item_header_1": "Innovation",
+            "item_text_1": "User-friendly experience made possible with innovative solutions.",
+            "item_header_2": "Trust",
+            "item_text_2": "Reliability and veracity.",
+            "item_header_3": "Commitment",
+            "item_text_3": "Services with the highest standards"
+        }
+    },
+    "ceo": {
+        "header": "CEO Message",
+        "ceo_name": "Abdullah Al-Ruwais",
+        "ceo_position": "Chief Executive Officer",
+        "ceo_message_header": "The establishment of the SIJIL has crystalized years of planning,",
+        "ceo_message_paragraph_list": [
+            {"text": "Studying, and analyzing to find practical and innovative solutions in the field of finance leasing registration. As the first Saudi company in finance leasing registration, SIJIL went through many development stages, and faced many obstacles from the team building stage and up to the process of developing internal regulations. Despite these challenges, our efforts have paid off -praise be to Allah- with the completion of the technical Integration with most of lessors and launching our portal. SIJIL is now able to receive lessors' requests through its newly launched electronic portal."},
+            {"text": "At SIJIL, we strive to be the link to connect all stakeholders of the finance leasing ecosystem; by being the key contributor in supporting success and promoting growth in the financing sector in the Kingdom. This vision is made possible through the support of the Saudi Arabian Monetary Agency (SAMA), the SIJIL team expertise, and our deep understanding of the financial system, its regulations issued by the legislative authorities."},
+            {"text": "We believe that managing the relationships between the parties of any contract requires a high sense of responsibility and wisdom. Therefore, we intend to enforce our important role to combat the challenges that face the financial leasing market and facilitating the process of contract enforcement, asset recovery, and reducing costs by providing accurate information for the executive entities."},
+            {"text": "SIJIL was built on transparency and confidence in financial lease contracts and their enforcement. This allows us to strive to create an ideal experience, in an effort to create a better future for the finance sector in the Kingdom in light of the Kingdom's 2030 vision."},
+            {"text": "In conclusion, I would like to thank the team of the Saudi Arabian Monetary Agency (SAMA) and the Ministry of Justice for their unlimited support. I also extend my gratitude to the SIJIL team for their exceptional efforts to help achieve this remarkable shift in the finance leasing sector"}
+        ]
+    },
+    "chairman": {
+        "header": "Chairman Message",
+        "chairman_name": "Mazin Al Ghunaim",
+        "chairman_position": "Chairman of the Board of Directors",
+        "chairman_message_header": "The financial sector has witnessed major development in the Kingdom recently, ",
+        "chairman_message_paragraph_list": [
+            {"text": "Coinciding with the Kingdom's vision for the year 2030. The Kingdom’s vision has strengthened various activities within the financial sector and supported various projects. These efforts are part of the our aspirations for the Kingdom to have one of the first advanced financing markets in the world."},
+            {"text": "SIJIL comes into play to contribute to supporting and fulfilling the aspirations and initiatives of the Kingdom's 2030 Vision which will enable us to advance the Kingdom’s economic development and create a digital environment that encourages development and innovation."},
+            {"text": "SIJIL aspires to be the leading company in the financial sector by reinforcing the principle of transparency with its customers to ensure the validity of contracts which supports the business environment for the financial lease market. SIJIL also seeks to establish strong values ​​for institutional digital transformation in order to achieve balance and financial stability through our provided services."},
+            {"text": "We at SIJIL, look at our role in the financial process as the foundation by achieving security and prosperity for our local economy to build a prosperous future for our Kingdom."}
+        ]
+    },
+    "our_clients": {
+        "header": "Our Clients",
+        "banks_tab": "Banks & Financial Companies",
+        "companies_tab": "Repossession companies",
+        "investors_tab": "Investors",
+        "authorities_tab": "Regulatory Authorities"
+    },
+    "team": {
+        "team": {
+            "header": "The Team",
+            "subheader": "Meet the SIJIL The Team",
+            "paragraphs": [
+                {
+                    "texts": [
+                        {"text": "SIJIL is working to reinvent finance leasing with a team of experienced national cadres."}
+                    ] 
+                }
+            ]
+        },
+        "members": {
+            "header": "Board Members",
+            "employee_list": [
+                {
+                    "name": "Mazin Al Ghunaim",
+                    "jobTitle": "Chairman of the Board",
+                    "description": "Chief Executive Officer Bidaya Home Finance",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Raed Al Abdulkarim",
+                    "jobTitle": "Member",
+                    "description": "General Manager Credit Risk Bank Al Bilad",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Nasser Al Yami",
+                    "jobTitle": "Member",
+                    "description": "Senior Vice President Riyad Bank",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Turki Al Baiz",
+                    "jobTitle": "Vice Chairman of the Board",
+                    "description": "Chief Executive Officer IJARAH Finance",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Bashaar Al Qunaibit",
+                    "jobTitle": "Member",
+                    "description": "General Manager Branches and Sales SABB",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Fyisal Baghil",
+                    "jobTitle": "Member",
+                    "description": "Chief Executive Officer AlAhli Esnad",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Safi Al Mujahed",
+                    "jobTitle": "Member",
+                    "description": "Chief Support Officer Saudi Orix",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                }
+            ]
+        },
+        "management": {
+            "header": "Exective Managment",
+            "employee_list": [
+                {
+                    "name":"Abdullah Al Ruwais",
+                    "jobTitle": "Chief Executive Officer",
+                    "description": "Proin in placerat turpis. Nunc scelerisque vel risus id rhoncus. Aliquam erat volutpat. Donec vulputate tortor ultricies dui maximus",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name": "Turki Al Baiz",
+                    "jobTitle": "Member",
+                    "description": "Proin in placerat turpis. Nunc scelerisque vel risus id rhoncus. Aliquam erat volutpat. Donec vulputate tortor ultricies dui maximus",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Tariq Al Saudi",
+                    "jobTitle": "Chief Finance Officer",
+                    "description": "Proin in placerat turpis. Nunc scelerisque vel risus id rhoncus. Aliquam erat volutpat. Donec vulputate tortor ultricies dui maximus",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                },
+                {
+                    "name":"Ahmad Al Wassil",
+                    "jobTitle": "Chief Business Officer",
+                    "description": "Proin in placerat turpis. Nunc scelerisque vel risus id rhoncus. Aliquam erat volutpat. Donec vulputate tortor ultricies dui maximus",
+                    "email": "test@test.com",
+                    "linkedIn": "https://www.linkedin.com/"
+                }
+            ]
+        }
+    },
+    "media": {
+        "header": "Media Center",
+        "more_button": "More  >",
+        "tabs": [
+            {
+                "header": "News",
+                "slider_list": [
+                    {"item": [
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        }
+                    ]},
+                    {"item": [
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        }
+                    ]}
+                ]
+            },
+            {
+                "header": "Events",
+                "slider_list": [
+                    {"item": [
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        }
+                    ]},
+                    {"item": [
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        },
+                        {
+                            "header": "How Big A Drawdown Can You Survive?",
+                            "text": "Vestibulum a est sagittis, rhoncus lorem sed, convallis nisl. Maecenas ipsum quam, auctor non mi sit amet, feugiat sollicitudin ligula...",
+                            "timedate": "13 jan 2021 at 12:00 am",
+                            "link": "https://www.google.com/"
+                        }
+                    ]}
+                ]
+            }
+        ]
+    },
+    "contact_us": {
+        "header": "For inquiries kindly fill the following form:",
+        "subheader": "Connect with SJIJL:",
+        "company_email": "sijil.office@gmail.com",
+        "company_phone": "9-800-321-10",
+        "company_linked_in": "@sijil",
+        "company_address": "Company address",        
+        "form": {
+            "name_label": "Subject",
+            "name_placeholder": "Enter Your Subject",
+            "mobile_label": "Full Name",
+            "mobile_placeholder": "Enter Your Full Name",
+            "title_label": "Contact Number",
+            "title_placeholder": "Enter Your Contact Number",
+            "email_label": "E-mail",
+            "email_placeholder": "Enter Your E-mail",
+            "message_label": "Message",
+            "message_placeholder": "Enter Your Message Here",
+            "submit_button": "Submit",
+            "success": "Success",
+            "failed": "Failed",
+            "required": "Required",
+            "email_validation": "Email must be a valid email"
+        }
+    },
+    "opportunities": {
+        "header": "Job Opportunities",    
+        "form": {
+            "name_label": "Full Name",
+            "name_placeholder": "Enter Your Full Name",
+            "mobile_label": "Contact Number",
+            "mobile_placeholder": "Enter Your Contact Number",
+            "email_label": "E-mail",
+            "email_placeholder": "Enter Your Email",
+            "years_of_experience_label": "Years of experience",
+            "years_of_experience_placeholder": "Enter Years of experience",
+            "major_label": "Feild / Major",
+            "major_placeholder": "Enter  Your Major",
+            "linked_in_label": "Personal LinkedIn",
+            "linked_in_placeholder": "https://linkedin.com/xyz",
+            "submit_button": "Submit",
+            "success": "Success",
+            "failed": "Failed",
+            "required": "Required",
+            "email_validation": "Email must be a valid email"
+        }
+    },
+    "faq":{
+        "header":"Frequently Asked Questions",
+        "slide_list":[
+           { "item_list":[
+                 {
+                    "question":"What is Saudi Financial Lease Contract Registry Company (SIJIL)?",
+                    "answer":[
+                       { "text":"Saudi Financial Lease Contract Registry Company “SIJIL” is a Saudi company licensed by the Saudi Arabian Monetary Authority to provide services and solutions for financial lease registrations, and to offer a special register of contracts, including data of leased assets. SIJIL was established to serve as an instrumental tool towards improving the mechanism of financial lease and contract registration, particularly in the financial sector in the Kingdom of Saudi Arabia." }
+                    ]
+                 },
+                 {
+                     "question":"When was SIJIL founded and when did SIJIL effectively begin operations?",
+                     "answer":[
+                        { "text":"Royal Decree released No. M/48 dated in 3 July 2012 mandated the establishment of a contract registry company as a joint-stock company, SIJIL registered first contract in July 2019"}
+                     ]
+                  },
+                  {
+                     "question":"Who owns the Saudi Financial Lease Contract Registry Company (SIJIL)?",
+                     "answer":[
+                        { "text":"The Saudi Financial Lease Contract Registry Company (SIJIL) is a joint stock company owned by all banks and finance companies that offer finance leasing products in the Kingdom, number of 43 Banks and Financial companies." }
+                     ]
+                  },
+                  {
+                     "question":"What role does SIJIL play in improving the Saudi economy?",
+                     "answer":[
+                        { "text":"To ensure contract enforceability and promote transparency, in corporation with the relevant authorities to avoid conflicts of interest." }
+                     ]
+                  },
+                  {
+                     "question":"How to obtain SIJIL solutions?",
+                     "answer":[
+                        { "text":"You can obtain from SIJIL services by complete the following requirements:" },
+                        { "text":"1. Licensed of financial leasing from the Saudi Arabian Monetary Authority (SAMA)" },
+                        { "text":"2. Sign the lessor agreement with SIJIL" },
+                        { "text":"3. Completing the technical integration requirements" }
+                     ]
+                  }
+              ]
+           },
+           { "item_list":[
+                 {
+                    "question":"Is there a service fee?",
+                    "answer":[
+                       { "text":"Yes, for more details you may contact SIJIL’s Customer Relationship Management Office via:" },
+                       { "text": "Email: rm@sijil.sa" },
+                       { "text": "Mobile: +966 53 1088 283" }
+                    ]
+                 },
+                 {
+                     "question":"Where does SIJIL get their data from?",
+                     "answer":[
+                        { "text":"SIJIL receive the Financial lease contracts details from the lessors via contract registration & amendment service" }
+                     ]
+                  },
+                  {
+                     "question":"Who are the beneficiaries from SIJIL services?",
+                     "answer":[
+                        { "text":"SIJIL Customer Segments the following:" },
+                        { "text":"1. Banks & Financial Companies" },
+                        { "text":"2. Rpossession companies" },
+                        { "text":"3. Regulatory Authorities" },
+                        { "text":"4. Investors" }
+                     ]
+                  },
+                  {
+                     "question":"What services are offered by SIJIL?",
+                     "answer":[
+                        { "text":"SIJIL Offer Its services via multiple channels as the following:" },
+                        { "text":"A. Services via technical integration:" },
+                        { "text":"1. Contract Registration: Registration of a financial lease contract (e.g. vehicle, real estate)" },
+                        { "text":"2. Contract Amendment: Formal change(s) to the terms & conditions and/or asset attributes of a contract" },
+                        { "text":"3. Contract Closure: Request to “close” a valid contract upon settlement of dues by lessees and/or any other valid reason" },
+                        { "text":"B. Services via portal:" },
+                        { "text":"1. General Inquiry: Request of information from SIJIL about contracts, certificates, lessee" },
+                        { "text":"2. Repossession Order Certificate: Issuance of Certificate approved by the Execution Court, that allows licensed repossession company to repossess a specific asset" },
+                        { "text":"3. Contract Enforcement Certificate: Issuance of Certificate approved by the Execution Court, that provides the Financial claims of a contract at a given point-of-time" },
+                        { "text":"4. Transfer of Rights & Refinancing Support: Support lessors in transfer of rights and/or refinancing transactions for financial lease products and to verify appropriate asset ownership" },
+                        { "text":"C. Services that can be used through secured file sharing:" },
+                        { "text":"1. Contract Registration for Other Assets:  any movable assets that are not registered in any public registry and being leased individually or commercially" }
+                     ]
+                  },
+                  {
+                     "question":"What is the agency responsible for supervising and monitoring SIJIL?",
+                     "answer":[
+                        { "text":"The Saudi Arabian Monetary agency (SAMA) is responsible for Licensing, supervising and monitoring all SIJIL activities." }
+                     ]
+                  }
+              ]
+           },
+           { "item_list":[
+                {
+                   "question":"What are the rules and regulations governing SIJIL activities?",
+                   "answer":[
+                      { "text":"1. The Finance lease Law issued by Saudi Arabian Monetary agency" },
+                      { "text": "2. Implementing Regulations of Finance Lease Law issued by Saudi Arabian Monetary agency" },
+                      { "text": "3. Rules Governing Disposal of Finance Assets or Their Contractual Rights issued by Saudi Arabian Monetary agency" },
+                      { "text": "4. Controls of movable assets issued by the Ministry of Justice" }
+                   ]
+                }
+             ]
+          }
+        ]
+    },
+    "our_service": {
+        "header": "Our Services", 
+        "service_1": {
+            "header": "Contract Registration",
+            "text_1": "Enable lessors to register, amend and close financial lease contracts for different types of leased assets e.g. vehicle, real estate other assets.",
+            "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus, consectetur eleifend nibh",
+            "text_2": "consectetur ornare. Donec id euismod mauris, iaculis mattis felis. Cras et fringilla neque, in condimentum metus."
+        },
+        "service_2": {
+            "header": "General Inquries",
+            "text_1": "Request of information from SIJIL about contracts, certificates, or lessees.",
+            "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus, consectetur eleifend nibh",
+            "text_2": "consectetur ornare. Donec id euismod mauris, iaculis mattis felis. Cras et fringilla neque, in condimentum metus."
+        },
+        "service_3": {
+            "header": "Repossession Certificate",
+            "text_1": "Issuance of a repossession certificate approved by the Ministry of Justice.",
+            "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus, consectetur eleifend nibh",
+            "text_2": "consectetur ornare. Donec id euismod mauris, iaculis mattis felis. Cras et fringilla neque, in condimentum metus."
+        },
+        "service_4": {
+            "header": "Enforcement Certificate",
+            "text_1": "Issuance of financial claims certificate approved by the Ministry of Justice",
+            "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus, consectetur eleifend nibh",
+            "text_2": "consectetur ornare. Donec id euismod mauris, iaculis mattis felis. Cras et fringilla neque, in condimentum metus."
+        },
+        "service_5": {
+            "header": "Transfer of Rights",
+            "text_1": "Registration of rights transfer related to finance leases, assets, and resecuritization.",
+            "text_highlight_2": "Aliquam ut varius velit. Ut tristique pharetra lectus, consectetur eleifend nibh",
+            "text_2": "consectetur ornare. Donec id euismod mauris, iaculis mattis felis. Cras et fringilla neque, in condimentum metus."
+        }
+    },
+    "footer": {
+        "text_1": "Under the supervision and control of The Saudi Arabian Monetary Authority Licensed as per the Royal Decree No. M/48 issued 13/8/1433H corresponding to 3/5/2012G",
+        "all_rights": "All rights reserved SIJIL 2020",
+        "faq": "FAQ",
+        "opportunities": "Career opportunities",
+        "investors_relations": "Investors relations",
+        "contact_us": "Contact us",
+        "sitemap": "Sitemap"
+    },
+    "rules": {
+        "title": "Rules and Regulations",
+        "links": [
+           { "title": "Finance Lease Law", "href": "https://www.sama.gov.sa/en-us/laws/pages/financelaws.aspx" },
+            { "title": "Implementing Regulation of the Finance Lease Law", "href": "https://www.sama.gov.sa/en-us/laws/pages/financerulesandregulations.aspx?&&p_sortbehavior=0&p_samafilepublishdate=20180908%2021:00:00&&pagefirstrow=1&view=27a22104-34ce-4e14-97c4-744140238119" },
+            { "title": "Rules govering disposal of Finance Assets or Their Contractula Rights", "href": "https://www.sama.gov.sa/en-us/laws/pages/financelaws.aspx" },
+            { "title": "Repossession Guidelines and Regulations", "href": "https://www.sama.gov.sa/en-us/laws/pages/financerulesandregulations.aspx?&&p_sortbehavior=0&p_samafilepublishdate=20180908%2021:00:00&&pagefirstrow=1&view=27a22104-34ce-4e14-97c4-744140238119" }
+        ]
+    },
+    "sitemap": {
+        "title": "Sitemap"
+    },
+    "initiatives": {
+        "title": "Initiatives",
+        "header": "SIJIL's Future Initiatives",
+        "subTitle": "User-Provided Information: while using Nucleo, we may ask you to provide us with certain personal information that can be used to contact or identify you, respond to your requests/ inquiries, service your purchase orders.",
+        "housing": "Housing Program",
+        "financial_sector": "Financial Sector Development Program",
+        "transformation": "National Transformation Program",
+        "hover_housing": [
+            {"text": "Develop housing finance products"},
+            {"text": "Organize the financial leasing market"},
+            {"text": "Unify the financial leasing contracts"}
+        ],
+        "hover_financial_sector": [
+            {"text": "Enable financial institutions to support private sector growth "},
+            {"text": "Ensure the formation of an advanced capital market"},
+            {"text": "Promote and enable financial planning"}
+        ],
+        "hover_transformation":  [
+            {"text": "Limit flow of lawsuits to courts"},
+            {"text": "Enhance the quality of services"},
+            {"text": "Improve work infrastructure needed to ensure ease of business"}
+        ]
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "updated": "Last updated: May 26, 2020",
+        "updated_by": "By SIJIL Lorem ipsum",
+        "informs": "This page informs you of Amber Creative S.R.L. ('Amber Creative', 'us', 'we', or 'our') policies regarding the collection, use and disclosure of Personal Information when you use the SIJIL application and website (from now on 'SIJIL'). We will not use or share your information with anyone except as described in this Privacy Policy.",
+        "info_title": "Information Collection And Use",
+        "sub_text1": "User-Provided Information: while using Nucleo, we may ask you to provide us with certain personal information that can be used to contact or identify you, respond to your requests/ inquiries, service your purchase orders.",
+        "sub_text2": "Here is a list of information we store if you create a SIJIL account and use the SIJIL application:",
+        "list1": [
+            "Email address and password, used to identify you when you log in via our website or app.",
+            "Name and Billing information, used to generate an invoice after you make a purchase on our website.",
+            "Device unique identifier, used to identify your device when you log in via the Nucleo app.",
+            "If you're a team admin -> your team members' email addresses, used to manage the access to your team projects."
+        ],
+        "sub_text3": "We DO NOT store information about your payment details. All payments are processed via Paypal or Stripe. When you make a purchase, we store the anonymous* version of your Internet Protocol (“IP”) address.",
+        "sub_text4": "*we do not collect your entire IP address, which means that we cannot identify your exact location, but just your country of origin.",
+        "sub_text5": "You can send a request to delete all your personal data by checking the designated option on your account page and clicking the Save button. This action will delete your Name and billing information. If you want to delete your email and password (or if you are a team admin and you want to delete the emails of all your team members), you need to delete your account. You can send us a request to delete your account by checking the designated option on the account page and clicking the Save button. By doing so, you will remove your access to the Nucleo app and account area.",
+        "sub_text6": "Cookies Information: when you visit Nucleo, we put small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.",
+        "sub_text7": "Cookies are used to:",
+        "list2": [
+            "measure how you use the website so it can be updated and improved based on your needs.",
+            "remember your login information so that you don't need to enter them again when you come back."
+        ],
+        "sub_text8": "Find out more about how to manage cookies.",
+        "sub_text9": "If you subscribed to our newsletter, we shared your email address with Mailchimp, that is the email marketing service we use to create our newsletter campaigns. However, we will never share your email address with other third parties, and we will use it for the sole purpose of sending you emails about Nucleo or other Amber Creative news. If you wish to unsubscribe from our newsletter, you can do that by clicking the 'unsubscribe' link in the footer of each newsletter, or by clicking the link below.",
+        "sub_text10": "Unsubscribe from the SIJIL newsletter",
+        "sub_text11": "Log File Information: we collect information that your browser sends whenever you visit SIJIL. This information may include an anonymous version of your IP address, browser type, browser version, the pages of SIJIL that you visit and other statistics. Also, we may use third-party services such as Google Analytics that collect, monitor  and analyze this type of information to increase SIJIL website functionality.",
+        "protect_title": "How We Protect Your Information",
+        "sub_text12": "We care about the integrity and security of your personal information. However, since some of your personal information may be stored in locations outside of our direct control (e.g., on servers or databases co-located with hosting providers) we cannot guarantee their security if they are accessed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. We are not responsible for the functionality or security measures of any third party.",
+        "sub_text13": "To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications from us, at all times.",
+        "policy_list": [
+            {
+                "title": "1. Introduction",
+                "paragraphs": [
+                    { "text": "The Saudi Financial Lease Contract Registry Company (SIJIL)  is committed to conducting its operations in accordance with all applicable Data Protection laws and regulations and in line with the highest standards of ethical conduct." },
+                    { "text": "This policy sets forth the expected behaviors of SIJIL in relation to the collection, use, retention, transfer, disclosure, destruction and breach of any Personal Data." }
+                ] 
+            },
+            {
+                "title": "2. Data Protection",
+                "paragraphs": [
+                    { "text": "SIJIL takes all neccessary and suitable precautions and measures to ensure user data is safely protected in a way that guarantees it is not lost, misused, modified, disclosed or used illegally. " }
+                ]
+            },
+            {
+                "title": "3. Disclosure",
+                "paragraphs": [
+                    { "text": " SIJIL shall not share, or disclose user data with a Third Party، with the exception of:" },
+                    { "text": "1- If required by the Law, or a court’s decisions, or if believed in goodwill that sharing aforementioned data is necessary or required by the Law, or to protect and/or defend the private property of SIJIL or any of its beneficiaries." },
+                    { "text": "2- If data disclosure is required by a governmental, regulatory, legislative or tax authority or to abide by the rules of any related stock market or under any applicable laws or regulations." }
+                ]
+            },
+            {
+                "title": "4. Data Retention",
+                "paragraphs": [
+                    { "text": "The servers used in SIJIL’s platforms automatically capture your IP address when you visit the site. (Your IP address is the number of the computer that you use, which allows other devices connected to the Internet to determine the location of the data issued by them, and to collect some information such as the type of browser and search engine without identifying your personal identity)." },
+                    { "text": "By accessing your IP address,  SIJIL’s platforms can diagnose problems that occur in its servers to make the necessary statistics to measure the use of the site (the number of visitors and the language of the computer you use). The platform does not allow any third party outside the framework of SIJIL’s technical team to access this data." },
+                    { "text": "B. Data is collected automatically through the use of text files (cookies). Cookies are small text files which contain the basic information used by the network site and saved in order to determine the frequent uses of the site, for example, (retrieving your name if it was entered previously). We may use this information to track behavior and collect data to improve the site." }
+                ]
+            },
+            {
+                "title": "5. External links",
+                "paragraphs": [
+                    { "text": "SIJIL’s platform may include links to other website, or ads on the Internet. SIJIL will not be held responsible for the any data collection conducted by any of those sites. It is advised to view the privacy policies and the contents of all visited sites respectively." }
+                ]
+            },
+            {
+                "title": "6.  User Responsibilities",
+                "paragraphs": [
+                    { "text": "The Saudi Financial Lease Contract Registry Company (SIJIL)  takes all necessary and suitable precautions and measures to ensure user data is safely protected in a way that guarantees it is not lost, misused, modified, disclosed or used illegally." },
+                    { "text": "If SIJIL requires your data; you will be asked to submit it of your own free will. As this information will help us to contact you and carry out your requests, wherever possible." },
+                    { "text": "The data provided by you will never be sold to any third party for the purpose of marketing without your prior consent unless it is collected for research and statistical purposes without including any data that can be used to identify you." }
+                ]
+            },
+            {
+                "title": "In order to protect user's data, users must abide by the following recommendations:",
+                "paragraphs": [
+                    { "text": "A. Contact SIJIL immediately if you suspect the confidentiality of your information has been compromised." },
+                    { "text": "B. Do not disclose any confidential information over the phone or the Internet unless the identity of the person or party receiving the information is known." },
+                    { "text": "C. Use a safe browser to perform any transaction over the Internet, and close unused applications and ensure your anti-virus software are up-to-date." },
+                    { "text": "D. Update your contact information on SIJIL’s platforms in the event of change." }
+                ]
+            },
+            {
+                "title": "The right to inspect, amend or correct Personal Data ",
+                "paragraphs": [
+                    { "text": "Any user who provides SIJIL with their information can review, amend or correct their information by requesting changes through an e-mail sent to  rm@sijil.sa " }
+                ]
+            },
+            {
+                "title": "Privacy Policy Revisions",
+                "paragraphs": [
+                    { "text": "SIJIL has the discretion to update this privacy policy at any time." }
+                ]
+            },
+            {
+                "title": "Privacy Policy Agreement",
+                "paragraphs": [
+                    { "text": "By using SIJIL.sa, you agree to the terms of this Privacy Policy and the Terms of Service which govern all platforms run by The Saudi Financial Lease Contract Registry Company (SIJIL)." }
+                ]
+            }
+        ]
+    },
+    "framework": {
+        "title": "SIJIL Framework",
+        "subTitle": "SIJIL works as a link between all stakeholders of the finance leasing sector to facilitate communication and enhance transparency between the following parties:",
+        "list": [
+            {
+                "title": "Lessons",
+                "text": "SIJIL’s services allow lessors to register their contracts and benefit from an array of innovative solutions and services."
+            },
+            {
+                "title": "Repossession Companies",
+                "text": "SIJIL aids repossession companies with a variety of innovative services that facilitate the asset repossession process. SIJIL also connects lessors and repossession companies by providing the necessary documentation to the concerned authorities and confirming the recovery of those assets to the lessors."
+            },
+            {
+                "title": "Ministry of Justice",
+                "text": "SIJIL works with the Ministry of Justice to verify and update land and property registration and lodge legal cases for repossession requests."
+            },
+            {
+                "title": "SAMA",
+                "text": "SIJIL works alongside the Saudi Arabian Monetary Authority (SAMA) to improve the efficiency of the finance leasing system by providing insight on organizational matters on a regular basis."
+            },
+            {
+                "title": "SIMAH",
+                "text": "SIJIL aims to structure the process of contract documentation by providing a platform that facilitates the transfer and exchange of consumers contract and credit data with the Saudi Credit Bureau (SIMAH). SIJIL also connects lessors and SIMAH to share credit history and payment information."
+            }
+        ]
+    },
+    "investor": {
+        "title": "Investor' Relations",
+        "anual": "Anual Reports",
+        "financial": "Financial Reports",
+        "name": "Name",
+        "download": "Share & Download",
+        "for_investors": "For investor relations in SIJIL kindly contact :",
+        "telephone": "Telephone:",
+        "email": "E-mail:"
+    }
+}

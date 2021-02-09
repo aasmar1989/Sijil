@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\src",
+    "\\src\\component",
+    "\\src\\component\\screens",
+    "\\src\\component\\screens\\HistoryScreen",
+    "\\src\\constants",
+    "\\src\\pages",
+    "\\src\\pages\\About",
+    "\\src\\pages\\CareerOpportunities"
+  ],
+  "SelectedNode": "\\src\\component\\screens\\HistoryScreen\\HistoryScreen.jsx",
+  "PreviewInSolutionExplorer": false
+}

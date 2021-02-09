@@ -1,0 +1,10 @@
+.change-lang-btn {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    margin: 30px auto 30px auto;
+}
+
+.change-lang-btn:focus {
+    outline: none;
+}

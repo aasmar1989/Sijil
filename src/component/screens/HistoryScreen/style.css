@@ -1,0 +1,120 @@
+.history-screen {
+    min-height: 680px;
+    background-image: url("../../../assets/backgrounds/pattern.png"), linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    background-position: bottom 0 right 0;
+    background-repeat: repeat-y;
+    position: relative;
+    padding-bottom: 50px;
+}
+.col-history-item-screen {
+    padding: 15px 10px;
+}
+.header-history {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: calc(25px + 2vw);
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.item-wrap-history {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    border-radius: 30px;
+    position: relative;
+    margin: 24px auto;
+    box-shadow: 0 12px 12px -4px rgba(0,0,0,0.24);
+    transition: all .4s cubic-bezier(0.4, 0.0, 0.2, 1);;
+    border-radius: 30px;
+    color: white;
+    width: 400px;
+    height: 600px;
+}
+.item-wrap-history:after {
+    content: "";
+    border-radius: 30px;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    width: auto;
+    height: 100%;
+}
+
+.item-wrap-history:hover {
+    box-shadow: 0 28px 40px -12px rgba(0,0,0,0.24);
+    transform: scale(1.05);
+}
+
+.item-wrap-history:hover .item-bg-history {
+	opacity: 1;
+}
+
+.item-wrap-history:hover ::after {
+  opacity: 0;
+}
+.item-wrap-history >.item-bg-history {
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    
+    transition: .4s ease;
+    padding: 30px 20px;
+}
+
+@media (min-width: 1200px) {
+    .item-wrap-history {
+        height: 450px;
+    }
+}
+
+@media (max-width: 992px) { 
+    .item-wrap-history {
+        height: 300px;
+    }
+}
+
+@media (max-width: 576px) { 
+    .item-wrap-history {
+        height: 200px;
+    }
+}
+
+.item-wrap-history-1, .item-wrap-history-1 >.item-bg-history {
+    background-image: linear-gradient(90deg, #00B2E2 0%, #008FE2 100%);
+}
+
+.item-wrap-history-2, .item-wrap-history-2 >.item-bg-history {
+    background-image: linear-gradient(90deg, #3C8CC7 0%, #105F9A 100%);
+}
+
+.item-wrap-history-3, .item-wrap-history-3 >.item-bg-history {
+    background-image: linear-gradient(90deg, #0A4065 0%, #09143E 100%);
+}
+
+.item-title-history {
+    color: var( --white);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 37px;
+    text-align: center;
+    margin: 0 auto;
+}
+.item-text-history {
+    color: var( --white);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    line-height: 2;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: initial;
+    margin: 0 auto;
+}

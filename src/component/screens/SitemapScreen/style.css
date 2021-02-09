@@ -1,0 +1,70 @@
+
+.rules-screen {
+    background-image: linear-gradient( var(--border-color) 0%,  var(--white) 100%);
+    padding: 130px 0;
+}   
+
+.header-sitemap {
+    font-size: 47px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.accordion {
+    margin-top: 70px;
+}
+
+.accordion > .card{
+    margin: 15px 0;
+    border: none;
+    border-radius: 10px;
+}
+
+div.accordion>div.card:not(:last-of-type) {
+    border-radius: 10px ;
+}
+
+div.card-header {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 30px; 
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+div.card-body {
+    padding: 25px 20px;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 10px;
+
+}
+
+.card-header > img {
+    transform: rotate(90deg);
+    width: 10px;
+    transition: 0.3s;
+}
+
+.card-body ul {
+    list-style-position: inside;
+    color: var(--main-color);
+}
+
+.card-body a {
+    display: flex;
+    justify-content: flex-start;
+    color: var(--main-color);
+    margin: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+img.active-img {
+    transform: rotate(270deg);
+}

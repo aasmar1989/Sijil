@@ -1,0 +1,50 @@
+.values-screen {
+    min-height: 680px;
+    background-image: url("../../../assets/backgrounds/pattern.png"), linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    background-position: bottom 0 right 0;
+    background-repeat: repeat-y;
+    position: relative;
+    padding-bottom: 80px;
+}
+.col-values-item-screen {
+    padding: 15px 10px;
+}
+.header-values {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: calc(25px + 2vw);
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.item-wrap-values {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 340px;
+    border-radius: 30px;
+    background-color: var(--white);
+}
+
+.item-header-values {
+    color: var( --our-clients-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px auto 10px auto;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+}
+
+.item-text-values {
+    color: var(--vision-text-color);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    margin: 0 auto;
+}

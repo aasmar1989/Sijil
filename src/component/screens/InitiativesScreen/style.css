@@ -1,0 +1,98 @@
+
+.initiatives-screen {
+    background-image: linear-gradient( var(--border-color) 0%,  var(--white) 100%);
+    padding: 130px 0;
+}   
+
+.header-initiatives {
+    font-size: 47px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.initiatives-description {
+    margin-top: 50px;
+    font-size: 17px;
+    color: var(--grey);
+}
+
+.initiatives-list {
+    margin-top: 70px;
+}
+
+.initiatives-item-box {
+    border-radius: 15px;
+    padding: 20px;
+    height: 400px;
+}
+
+.initiatives-item-box.initiatives-item-box-1 {
+    background-image: linear-gradient(180deg,#00B2E2 0%, #008FE2 100%);
+}
+
+.initiatives-item-box.initiatives-item-box-2 {
+    background-image: linear-gradient(180deg,#3C8CC7 0%,#105F9A 100%);
+}
+
+.initiatives-item-box.initiatives-item-box-3 {
+    background-image: linear-gradient(180deg,#0A4065 0%, #09143E 100%);
+}
+
+.initiatives-item-img {
+    padding: 10px;
+    border-radius: 15px;
+    background: var(--white);
+    height: 180px;
+}
+
+
+.initiatives-item-text {
+    padding: 70px 10% 0 10%;
+    height: 180px;
+    color: var(--white);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.initiatives-item-hover-text {
+    padding: 10px;
+    color: var(--white);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 2;
+    text-align: initial;
+}
+
+
+.initiatives-item-box-flip-box {
+    background-color: transparent;
+    height: 400px;
+    border: 1px solid #f1f1f1;
+    perspective: 1000px;
+  }
+  
+  .initiatives-item-box-flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  .initiatives-item-box-flip-box:hover .initiatives-item-box-flip-box-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .initiatives-item-box-flip-box-front, .initiatives-item-box-flip-box-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+
+  .initiatives-item-box-flip-box-back {
+    color: white;
+    transform: rotateY(180deg);
+  }

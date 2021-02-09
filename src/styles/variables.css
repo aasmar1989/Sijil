@@ -1,0 +1,23 @@
+:root {
+    --main-color: #00B2E2;
+    --secondary-color: #091D44;
+    --main-text-color: #2F3358;
+    --our-clients-text-color: #091943;
+    --secondary-text-color: #7F94A3;
+    --team-text-color: #9498AD;
+    --faq-text-color: #5C779E;
+    --vision-text-color: #8CA0BC;
+    --text-error: red;
+    --page-indicator-text-color: #0A4065;
+    --border-color: #E8ECF8;
+    --main-bg-color: #FBFCFF;
+    --white: #FFFFFF;
+    --bg-gradient-from: #1DB2E2;
+    --bg-gradient-to: #0A4065;
+    --bg-gradient-button: #052E4B;
+    --bg-contact-us-form: #FCFCFE;
+    --bg-faq-tiles: #31486A;
+    --grey: #999EB1;
+    --curious-blue: #3C8CC7;
+    --ghost: #F9FAFD;
+  }

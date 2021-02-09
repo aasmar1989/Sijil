@@ -1,0 +1,45 @@
+
+.privacy-screen {
+    background-image: linear-gradient( var(--border-color) 0%,  var(--white) 100%);
+    padding: 130px 0;
+}   
+
+.header-privacy {
+    font-size: 47px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.privacy-list {
+    margin: 30px 0;
+    text-align: initial;
+    padding: 0;
+    list-style-position: inside;
+    color: var(--main-color);
+}
+
+.privacy-list span {
+    color: var(--secondary-color);
+    margin: 0 30px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.privacy-list li {
+    margin: 10px 0;
+}
+
+.secondary-text {
+    text-align: initial;
+    color: var(--grey);
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.privacy-title {
+    text-align: initial;
+    font-size: 32px;
+    font-weight: 600;
+}

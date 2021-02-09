@@ -1,0 +1,81 @@
+@import 'variables.css';
+
+body {
+  margin: 0;
+  font-family: 'TeshrinAR+LT-Regular', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  text-align: center;
+  color:  var(--main-text-color);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.main-container {
+  max-width: 1600px;
+}
+.line-container {
+  position: relative;
+}
+.top-line {
+  position: absolute;
+  top: 55px;
+  left: calc(50% - 27px);
+  width: 54px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+}
+.bottom-line {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 33px);
+  width: 66px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+}
+.bottom-line {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 33px);
+  width: 66px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+}
+.bottom-line-left {
+  width: 66px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+}
+.left-bottom-line {
+  position: absolute;
+  bottom: 0;
+  left: auto;
+  width: 54px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+  z-index: 32;
+}
+.parsley-errors-list.filled {
+
+}
+.parsley-required {
+  color: var(--text-error);
+  text-align: initial;
+  margin: 5px;
+  font-size: 14px;
+}

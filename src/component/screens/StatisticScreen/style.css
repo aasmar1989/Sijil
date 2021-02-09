@@ -1,0 +1,47 @@
+.statistic-screen {
+    min-height: 680px;
+    background-image: url("../../../assets/backgrounds/pattern.png");
+    background-color: var(--main-bg-color);
+    background-position: right;
+    background-repeat: repeat-y;
+    position: relative;
+    padding-bottom: 80px;    
+}
+.subheader-statistic {
+    color: var( --main-color);
+    font-weight: 600;
+    font-size: 17px;
+    text-align: initial;
+    width: 100%;
+    margin-top: 80px;
+    
+}
+.col-statistic-item-screen {
+    padding: 15px 10px;
+}
+.header-statistic {
+    color: var( --main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: calc(25px + 4vw);
+    text-align: initial;
+    margin-bottom: 75px;
+    width: 100%;
+}
+
+.item-number-statistic {
+    color: var(--main-color);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: calc(60px + 4vw);
+}
+
+.item-text-statistic {
+    color: var( --secondary-text-color);
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+    max-width: 260px;
+    margin: 0 auto;
+}

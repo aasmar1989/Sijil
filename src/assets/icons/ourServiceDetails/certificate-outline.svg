@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="403" viewBox="0 0 403 403">
+  <defs>
+    <filter id="certificate-outline-wrap" x="0" y="0" width="403" height="403" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="44" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="21.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Сгруппировать_9336" data-name="Сгруппировать 9336" transform="translate(-214.5 -1768.5)">
+    <g transform="matrix(1, 0, 0, 1, 214.5, 1768.5)" filter="url(#certificate-outline-wrap)">
+      <g id="Эллипс_63-2" data-name="Эллипс 63" transform="translate(56.5 20.5)" fill="#fff" stroke="rgba(41,64,94,0.19)" stroke-width="1">
+        <circle cx="137" cy="137" r="137" stroke="none"/>
+        <circle cx="137" cy="137" r="136.5" fill="none"/>
+      </g>
+    </g>
+    <g id="certificate-outline" transform="translate(350 1883.885)">
+      <g id="Сгруппировать_9315" data-name="Сгруппировать 9315" transform="translate(0 4)">
+        <path id="Контур_4072" data-name="Контур 4072" d="M88.592,104.231,74.7,95.024l-13.9,9.207V87.381H6.948A6.969,6.969,0,0,1,0,80.432V10.948A6.969,6.969,0,0,1,6.948,4h97.278a6.969,6.969,0,0,1,6.948,6.948V80.432a6.969,6.969,0,0,1-6.948,6.948H88.592ZM74.7,86.686l6.948,4.69V77.653a21.174,21.174,0,0,1-13.9,0V91.376Zm13.9-6.254h15.634V10.948H6.948V80.432H60.8V73.31A20.51,20.51,0,0,1,53.85,57.85a20.845,20.845,0,0,1,41.69,0,20.51,20.51,0,0,1-6.948,15.46ZM74.7,43.953a13.9,13.9,0,1,0,13.9,13.9A13.938,13.938,0,0,0,74.7,43.953ZM45.165,40.479H17.371V33.531H45.165ZM93.8,26.582H17.371V19.634H93.8Z" transform="translate(0 -4)" fill="#00b2e2"/>
+      </g>
+    </g>
+  </g>
+</svg>

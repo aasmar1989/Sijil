@@ -1,0 +1,109 @@
+.first-screen {
+    position: relative;
+    /* min-height: 800px; */
+    background-image: linear-gradient(270deg, var(--white) 0%, var(--border-color) 50%);
+    padding: 50px 0;
+}
+.col-first-screen {
+    /* min-height: 800px; */
+    padding-left:60px;
+    padding-right: 60px;
+}
+.big-logo {
+    width: 405px;
+    height: 563px;
+}
+@media only screen and (max-width: 1200px) {
+    .big-logo {
+        width: 202px;
+        height: 281px;
+    }
+  }
+.left-column-first-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.subheader-first-screen {
+    color: var(--main-text-color);
+    font-weight: 600;
+    font-size: 1.1em;
+    text-align: initial;
+    width: 100%;
+}
+.header-first-screen {
+    text-align: initial;
+    color: var(--main-text-color);
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 89px;
+    font-size: calc(5vw + 30px);
+    width: 100%;
+}
+span.header-first-screen {
+    color: var( --main-color);
+}
+.text-wrap-first-screen {
+    width: 100%;
+}
+.text-first-screen {
+    /* max-width: 495px; */
+    font-size: 17px;
+    text-align: initial;
+    color: var(--main-text-color);
+    opacity: 0.5;
+}
+.button-wrap-first-screen {
+    margin: 30px 0 0 0;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%
+}
+.button-wrap-first-screen > div {
+    padding: 0;
+    margin-bottom: 20px;
+}
+.about-us-first-screen {
+    width: 212px;
+    height: 76px;
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: var(--main-color);
+    color: var(--white);
+    border-radius: 36px;
+    text-align: center;
+    outline: none;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.about-us-first-screen > svg {
+    margin: 0 10px;
+}
+.our-services-first-screen {
+    width: 212px;
+    height: 76px;
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: var(--secondary-color);
+    color: var(--white);
+    border-radius: 36px;
+    text-align: center;
+    outline: none;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.our-services-first-screen > svg {
+    margin: 0 10px;
+}
+.go-down-icon-wrap {
+    position: absolute;
+    left: calc( 50% - 41px );
+    bottom: -41px;
+    z-index: 31;
+    border-radius: 50%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}

@@ -1,0 +1,54 @@
+.employee-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 30px auto;
+}
+.employee-img {
+    z-index: 5;
+}
+.employee-text-wrap {
+    max-width: 470px;
+    min-height: 340px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.57);
+    margin-top: -50px;
+    padding: 80px 20px 20px 20px;
+}
+.employee-text-wrap-dark {
+    background-color: rgba(49, 72, 106, 0.57);
+}
+.employee-name {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    color: var(--main-color);
+    margin-bottom: 0px;
+}
+.employee-job-title {
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 2;
+    color: rgba(9, 26, 67, 0.6);
+}
+.employee-job-title-dark {
+    color: var(--white);
+}
+.employee-description {
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 2;
+    color: var(--vision-text-color);
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.employee-social-wrap {
+    margin: 0 auto;
+}
+.employee-social-link {
+    margin: 10px;
+}

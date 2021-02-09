@@ -1,0 +1,97 @@
+.team-screen {
+    display: block;
+    position: relative;
+    background-image: url("../../../assets/backgrounds/pattern.png"), linear-gradient(135deg, #FFFFFF 0%, #EEF2FF 100%);
+    background-color: var(--main-bg-color);
+    background-position: bottom 0 right 0;
+    background-repeat: repeat-y;
+    padding-bottom: 120px;
+}
+.header-team {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: calc(25px + 2vw);
+    font-weight: 700;
+    color: var(--main-text-color);
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.subheader-team {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    color: var(--main-color);
+    letter-spacing: .3rem;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+.slide-item-team-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 50px;
+    height: 100%;
+}
+.slide-item-header-team {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 39px;
+    color: var(--main-text-color);
+    text-align: initial;
+    margin-top: 40px;
+    max-width: 600px;
+    width: 100%;
+}
+ .slide-item-text-team {
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 2;
+    color: var(--team-text-color);
+    text-align: initial;
+    margin-top: 40px;
+    max-width: 600px;
+    width: 100%;
+}
+.slide-item-highlight {
+    font-family: 'TeshrinAR+LT-Regular',  'Segoe UI', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 2;
+    color: var(--main-color);
+    text-align: initial;
+}
+.col-item-wrap-team {
+    min-height: 400px;
+}
+.slider-team-item-logo {
+    max-width: 700px;
+    width: 100%;
+}
+.slider-team-button-prev, .slider-team-button-next {
+    width: 103px;
+    height: 76px;
+    background-image: url(../../../assets/icons/slider/arrow.svg);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-radius: 38px;
+    margin: 10px
+}
+.slider-team-button-prev:hover, .slider-team-button-next:hover {
+    background-image: url(../../../assets/icons/slider/arrowHover.svg);
+}
+.slider-team-button-prev:focus, .slider-button-next:focus {
+    outline: none;
+}
+.slider-team-button-next {
+    transform: rotate(180deg);
+}
+.slider-team-button-next:hover {
+    transform: rotate(180deg);
+}
+
+.button-team-wrap-team {
+    margin-top: 40px;
+    margin-bottom: 150px;
+}

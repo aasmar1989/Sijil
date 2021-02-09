@@ -1,0 +1,35 @@
+
+.framework-screen {
+    background-image: linear-gradient( var(--border-color) 0%,  var(--white) 100%);
+    padding: 130px 0;
+}   
+
+.header-framework {
+    font-size: 47px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.framework-subtitle {
+    margin: 50px 0;
+    font-size: 18px;
+    text-align: initial;
+}
+
+.list-item {
+    margin: 20px 0;
+}
+
+.list-item-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: initial;
+}
+
+.list-item-text {
+    font-size: 18px;
+    text-align: initial;
+    line-height: 30px;
+}

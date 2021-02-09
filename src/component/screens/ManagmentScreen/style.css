@@ -1,0 +1,61 @@
+.management-screen {
+    display: block;
+    position: relative;
+    background-image: url("../../../assets/backgrounds/pattern.png"), linear-gradient(90deg, var(--white) 0%, var(--border-color) 100%);
+    background-position: bottom 0 right 0;
+    background-repeat: repeat-y;
+    position: relative;
+    padding-bottom: 50px;
+}
+.header-management {
+    font-family: 'TeshrinAR+LT-Bold', 'SegoeUI Bold', 'Segoe UI', sans-serif;
+    font-size: calc(32px + 2vw);
+    font-weight: 700;
+    color: var( --main-text-color);
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+.slide-management-item-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.slide-item-text-management {
+    font-family: 'TeshrinAR+LT-Light',  'SegoeUI Light', 'Segoe UI', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--white);
+    max-width: 290px;
+    margin-top: 40px
+}
+.col-item-wrap-management {
+    min-height: 400px;
+}
+.slider-management-button-prev, .slider-management-button-next {
+    width: 103px;
+    height: 76px;
+    background-image: url(../../../assets/icons/slider/arrow.svg);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-radius: 38px;
+    margin: 10px
+}
+.slider-management-button-prev:hover, .slider-button-next:hover {
+    background-image: url(../../../assets/icons/slider/arrowHover.svg);
+}
+.slider-management-button-prev:focus, .slider-management-button-next:focus {
+    outline: none;
+}
+.slider-management-button-next {
+    transform: rotate(180deg);
+}
+.slider-management-button-next:hover {
+    transform: rotate(180deg);
+}
+
+.button-management-wrap {
+    margin-bottom: 100px;
+}

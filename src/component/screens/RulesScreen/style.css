@@ -1,0 +1,27 @@
+
+.rules-screen {
+    background-image: linear-gradient( var(--border-color) 0%,  var(--white) 100%);
+    padding: 130px 0;
+}   
+
+.header-rules {
+    font-size: 47px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.link-list {
+    color: var(--main-color);
+    padding: 0;
+    list-style-position: inside;
+    margin-top: 40px;
+}
+
+.link-item, .link-item:hover {
+    color: var(--main-color);
+    display: flex;
+    justify-content: flex-start;
+    margin: 15px 0;
+}

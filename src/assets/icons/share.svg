@@ -1,0 +1,9 @@
+<svg id="ic-actions-new-window" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_46" data-name="Rectangle 46" width="24" height="24" fill="none"/>
+  <g id="Layer">
+    <g id="ic-actions1-01">
+      <path id="Path_101" data-name="Path 101" d="M22,13a1,1,0,0,0-1,1v6a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V4A1,1,0,0,1,4,3h6a1,1,0,0,0,0-2H4A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V14A1,1,0,0,0,22,13Z" fill="#00b2e2"/>
+      <path id="Path_102" data-name="Path 102" d="M20,1H16a1,1,0,0,0,0,2h3.31l-9.6,9.61A1,1,0,1,0,11.12,14L21,4.14V8a1,1,0,0,0,2,0V4A3,3,0,0,0,20,1Z" fill="#00b2e2"/>
+    </g>
+  </g>
+</svg>

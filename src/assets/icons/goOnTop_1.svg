@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="95" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+  <defs>
+    <filter id="Эллипс_11" x="0" y="0" width="182" height="182" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur"/>
+      <feFlood flood-color="#12478d" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Сгруппировать_9336" data-name="Сгруппировать 9336" class="">
+    <g filter="url(#Эллипс_11)" id="svg_1">
+      <circle id="Эллипс_11-2" data-name="Эллипс 11" cx="-1513.5000387728214" cy="-5878.499811589718" r="47.5" transform="matrix(1,0,0,1,1561,5926) " fill="#00b2e2" stroke-width="0"/>
+    </g>
+    <g id="right-chevron" transform="rotate(-90 33.269992828369176,138.95234680175784) ">
+      <path id="Контур_14" data-name="Контур 14" d="M132.8129807584287,151.58133684778204 L120.86298075842865,139.65233684778195 a2.3,2.3 0 0 0 -3.3,0 L116.16998075842866,141.02333684778205 a2.245,2.245 0 0 0 -0.6780000000000089,1.649 A2.347,2.347 0 0 0 116.16998075842866,144.34133684778226 l8.908,8.89 L116.16998075842866,162.13933684778203 a2.245,2.245 0 0 0 -0.6780000000000089,1.649 A2.347,2.347 0 0 0 116.16998075842866,165.45233684778214 l1.393,1.375 a2.346,2.346 0 0 0 3.3,0 L132.8129807584287,154.89933684778225 a2.347,2.347 0 0 0 0.6790000000000089,-1.6680000000000001 A2.245,2.245 0 0 0 132.8129807584287,151.58133684778204 z" fill="#fff"/>
+    </g>
+  </g></g></svg>
